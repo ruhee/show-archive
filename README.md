@@ -1,0 +1,1 @@
+I've been keeping a list of shows I've attended and played since 2006. Thought it might be time to start doing something with them but haven't figured out what yet. This is presently just a dump of that data (and a way to update them without being afraid a proprietary service will eat ten years worth of lists).
