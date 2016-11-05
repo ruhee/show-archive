@@ -1,14 +1,17 @@
+TODO: Separate comedy/spoken/etc from bands?
+
 - $100
 - 2AM Club
 - A Hawk & A Hacksaw
 - Abdominal & the Obliques
 - Abigail Washburn & the Sparrow Quartet
-- The Acorn x2
+- The Acorn x3
 - Action Makes
 - Ada Lee
 - Adrienne Young & Little Sadie
 - Agnostic Mountain Gospel Choir
 - Aimee Mann x2
+- Akosua Amo-Adem
 - Akron/Family
 - Alana Bridgewater x2
 - Alanis Morissette
@@ -207,6 +210,7 @@
 - Entire Cities (+ played with x70)
 - The Entrance Band
 - The Envy
+- Eons
 - Escort
 - Evan Gordon & His Sad Clowns
 - Evelyn Glennie
@@ -227,6 +231,7 @@
 - Frigg
 - Frontiers
 - Fucked Up x2
+- Fusion Comedy
 - Gal Costa
 - Gay
 - Gentleman Reg
@@ -278,6 +283,7 @@
 - illScarlett
 - Imaginary Cities
 - Iron & Wine
+- Isabel ZT
 - The I Spies x2
 - Ivy Mairi & Isla Craig
 - Jack Semple
@@ -414,6 +420,7 @@
 - Miss Scarlett
 - MJ Cyr
 - The Mocking Shadows
+- Monica Garrido
 - More or Les
 - The Mountain Goats x2
 - The Mountains and the Trees
@@ -445,6 +452,7 @@
 - North Mississippi All Stars
 - Not Affiliated Big Band
 - Not The Wind Not The Flag
+- Nour Hadidi
 - Now Yr Taken
 - NQ Arbuckle
 - Numbers & Figures
@@ -469,6 +477,7 @@
 - Parachutes
 - Parks & Rec
 - Pat Metheny
+- Patricia Tab & Rabiya Mansoor
 - Paul Ashwell Orchestra
 - Paul Banwatt
 - Paul Read Orchestra
@@ -605,6 +614,7 @@
 - These United States
 - Theory of a Deadman (sort of)
 - Thickhawk
+- Tia McGregor
 - Tim Gilbert
 - Timber Timbre x2
 - Tin Bangs
@@ -633,6 +643,7 @@
 - Ultra Magnus
 - Umalali
 - Unwigged & Unplugged: Guest, McKean, Shearer
+- Valentine Ho
 - Van Morrison x2
 - Vasen
 - Walter/Halvorson/Evans trio
@@ -662,6 +673,7 @@
 - Woodpigeon
 - Wynton Marsalis & LCJO x2
 - Yamantaka//Sonic Titan
+- Yas Kween Players
 - Yes
 - Yoko Casionos
 - York Jazz Orchestra (performed x3?)
