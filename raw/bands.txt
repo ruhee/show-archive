@@ -312,6 +312,7 @@ TODO: Separate comedy/spoken/etc from bands?
 - Jimeoin
 - Jimmy Carr
 - Joe Bonamassa
+- Joe Pernice
 - Joel Fafard
 - Joel Plaskett Emergency x10
 - John Caparulo
