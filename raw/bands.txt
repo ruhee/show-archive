@@ -247,6 +247,7 @@
 - Golden Dogs
 - Gomez
 - Good Brothers
+- Good Enough
 - The Good Lovelies x2(?)
 - Gordon Lightfoot x2
 - Graeme Lang & The Boxsets
@@ -707,3 +708,5 @@ Toronto Fringe 2010 (11x)
 Best of Fringe Uptown 2010 (2x)
 Next Stage Festival 2012 (8x)
 Toronto Fringe 2013* (11x)
+
++ Jason Doell's DELICATE TRIANGLES x2
