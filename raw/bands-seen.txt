@@ -26,7 +26,6 @@
 - Amos the Transparent
 - Anathallo
 - Andrew Bird
-- Andrew Ennals & His Checkered Past (played x2)
 - Andrew Scott x2
 - Andrew, Scott & Laura
 - Andyland
@@ -51,7 +50,7 @@
 - The Barmitzvah Brothers
 - Barons & Lengthy x3
 - The Barrel Boys
-- Basement Arms x2 (+ played x10, guest x1)
+- Basement Arms x2
 - Basia Bulat
 - Battlefield Band
 - Be Good Tanyas
@@ -64,7 +63,7 @@
 - Bert Jansch
 - Bethany Daniels
 - Bettye Lavette
-- The Bicycles x5 (+ played x2)
+- The Bicycles
 - Bidiniband
 - Bike Jazz
 - Bill Callahan
@@ -96,7 +95,7 @@
 - Brodie Dakin
 - Broken Social Scene
 - Bruce Peninsula x9
-- Bry Webb (+ played with x2)
+- Bry Webb
 - Buddy Guy
 - Buffy Sainte-Marie
 - The Burning Hell x3
@@ -122,22 +121,18 @@
 - Casper Skulls
 - Castlemusic
 - Caylie Staples & Felicity Williams
-- The CBC Darlings (played with x1)
 - CCMC
-- Cedarstrip Rocketship (played with x3)
 - Chad VanGaalen x3
-- Cheap Speakers x2 (+ played with x7)
+- Cheap Speakers x2
 - Chick Corea Trio
 - Chirgilchin
 - Chris Smither
 - Christine Fellows x2
-- Chrome & the Ice Queen (played with 2x)
 - Crhymes
 - Chuck Negron (w/BST)
 - Chumbawamba (acoustic)
 - City and Colour x2
 - City Field
-- Clarinet Panic (played with 6x)
 - Clarinet Panic Deluxx
 - Classic Albums Live [The Last Waltz]
 - The Clientele
@@ -178,7 +173,6 @@
 - dd/mm/yyyy
 - Dearly Beloved
 - The Decemberists
-- Del Bel (played with x11)
 - Deep 6 Jazz Sextet x2
 - The Deep Dark Woods
 - Definition of Knowledge
@@ -224,7 +218,7 @@
 - Emily Wells
 - Emma-Lee
 - Emma Pollock
-- Entire Cities (+ played with x70, + guested x1)
+- Entire Cities
 - The Entrance Band
 - The Envy
 - Eons
@@ -265,7 +259,7 @@
 - Golden Dogs
 - Gomez
 - Good Brothers
-- Good Enough x3 (+ played with x13)
+- Good Enough x3
 - The Good Lovelies x2(?)
 - Goon Squad
 - Gordon Lightfoot x2
@@ -286,7 +280,7 @@
 - Hayden
 - Hedley
 - Heebee-Jeebees xLOTS
-- Henri Fabergé and the Adorables (+ played with x8)
+- Henri Fabergé and the Adorables
 - Herbie Hancock
 - Hey Rosetta!
 - The Hit Pickers
@@ -438,8 +432,7 @@
 - Matt Masters
 - Matt Mays & El Torpedo
 - Mavis Staples x2
-- Maybe Not x4 (guested x1)
-- Maylee Todd (played with x1)
+- Maybe Not x4
 - Megafaun
 - Megan Hamilton & the Volunteer Canola x2
 - Meghan Harrison
@@ -471,7 +464,6 @@
 - Nathan x2
 - The National
 - National Youth Orchestra of Canada 2005(?), 2010
-- The Natural Shocks (guested 3x)
 - Neighbourhood Council
 - Neil Quin
 - Neil Young x2
@@ -481,7 +473,7 @@
 - New Country Rehab
 - New Orleans Social Club
 - The New Pornographers x2
-- Nich Worby x6 (+ played with x1)
+- Nich Worby x6
 - Nick Ferrio & His Feelings
 - Nick Kroll
 - Nick Lowe
@@ -580,7 +572,7 @@
 - Ross Noble
 - Rueben DeGroot x2
 - Rufus Wainwright
-- The Rural Alberta Advantage x6 (1 guested)
+- The Rural Alberta Advantage x6
 - Rush
 - Ruthie Foster
 - The Sadies
@@ -617,9 +609,8 @@
 - Skavenjah
 - Skeleton (Me)
 - The Skeletones Four
-- Sloan x23 + CBC thing + c!c!c! mini-set (+ sang a song!)
+- Sloan x23 + CBC thing + c!c!c! mini-set
 - Slippers x3
-- Slipper Orchestra (played with x1)
 - Small Sins x3 (one as Ladies & Gentlemen)
 - The Sojourners
 - Songs from a Room
@@ -681,7 +672,6 @@
 - Tragically Hip x3
 - Trampled By Turtles x2
 - Trap Tiger
-- Traplines (played x1)
 - Treasa Levasseur
 - Tres Bien Ensemble
 - Trish Klein
@@ -704,7 +694,7 @@
 - We Are Scientists
 - We Take Lovers
 - The Weakerthans
-- The Weather Station x8 + guesting and stuff
+- The Weather Station x8
 - The Wellington Wellingtons
 - Weird Al Yankovic
 - Weird Weather x2
@@ -724,30 +714,15 @@
 - Woodhands x4
 - Woodpigeon
 - Wynton Marsalis & LCJO x2
-- XLNS (played x1)
 - Yamantaka//Sonic Titan
 - Yas Kween Players
 - Yes
 - Yoko Casionos
-- York Jazz Orchestra (performed x3?)
 - York University Chamber Choir
-- York University Concert Choir (performed x4)
 - York University Gospel Choir
-- York University New Music Ensemble (performed x2)
-- York University Soul Collective (R&B band) (performed x?)
 - York University Symphony Orchestra
 - Young Galaxy
 - Young Mother
 - Young Rival
 - Zeus x2
 - Zoobombs
-
-
-+ LOVE IS A POVERTY YOU CAN SELL / (2*)
-
-Toronto Fringe 2010 (11x)
-Best of Fringe Uptown 2010 (2x)
-Next Stage Festival 2012 (8x)
-Toronto Fringe 2013* (11x)
-
-+ Jason Doell's DELICATE TRIANGLES x2
