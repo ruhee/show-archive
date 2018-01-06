@@ -407,6 +407,7 @@
 1. Kirk MacDonald
 1. KlezMerovitz
 1. Klingon Assault Squad
+1. Kojo 'Easy' Damptey
 1. Kyle Micheal Murray
 1. La Strada
 1. Ladysmith Black Mambazo x2
@@ -445,6 +446,7 @@
 1. Lowlands
 1. Lubo Alexandrov & Kaba Horo
 1. Lucinda Williams
+1. Luge
 1. Luke Doucet x2
 1. Luluc
 1. LVL UP
@@ -468,6 +470,7 @@
 1. Matt Masters
 1. Matt Mays & El Torpedo
 1. Mavis Staples x2
+1. Max & Eyeda
 1. Max Silvestri
 1. Maybe Not x4
 1. Mayor McCA
@@ -730,6 +733,7 @@
 1. Trampled By Turtles x2
 1. Trap Tiger
 1. Treasa Levasseur
+1. Tremayne
 1. Tres Bien Ensemble
 1. Trish Klein
 1. Tropicanada Orchestra
