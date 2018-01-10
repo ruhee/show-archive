@@ -247,7 +247,7 @@
 1. Feuermusik
 1. Field Music
 1. Final Fantasy x3
-1. First Aid Kit (Halifax)
+1. First Aid Kit (Halifax - now Writer's Strike)
 1. FLAMES!
 1. Fleet Foxes
 1. Fleetwood Mac
