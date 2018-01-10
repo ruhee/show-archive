@@ -2,7 +2,6 @@
 1. 2AM Club
 1. 36?
 1. 45th Ave Jazz Band
-1. A Hawk & A Hacksaw
 1. Abdominal & the Obliques
 1. Abigail Washburn & the Sparrow Quartet
 1. Absolutely Free
@@ -11,6 +10,7 @@
 1. Ada Lee
 1. Adrienne Young & Little Sadie
 1. Agnostic Mountain Gospel Choir
+1. A Hawk & A Hacksaw
 1. Aimee Mann x2
 1. Aisha Brown
 1. Akosua Amo-Adem
@@ -44,9 +44,9 @@
 1. ASK
 1. The Assistants
 1. Aurora Brown
-1. B.A. Johnston
 1. Baby Eagle
 1. The Bad Plus
+1. B.A. Johnston
 1. Bankruptcy
 1. Barenaked Ladies x3
 1. The Barmitzvah Brothers
@@ -81,8 +81,8 @@
 1. Blood, Sweat & Tears
 1. Blue Man Group (Toronto)
 1. Blue Rodeo x3
-1. Bob Wiseman
 1. Bobby McFerrin
+1. Bob Wiseman
 1. Bon Iver
 1. Bonjay
 1. Bookchop
@@ -138,7 +138,7 @@
 1. Chris Smither
 1. Christine Fellows x2
 1. Crhymes
-1. Chuck Negron (w/BST)
+1. Chuck Negron
 1. Chumbawamba (acoustic)
 1. City and Colour x2
 1. City Field
@@ -154,7 +154,7 @@
 1. Colin Quinn
 1. Colleen & Paul
 1. Come Back Barbara
-1. Conan O'Brien (w/ Andy Richter, Deon Cole)
+1. Conan O'Brien (ft. Andy Richter, Deon Cole)
 1. Conor Gains
 1. The Consonant C
 1. Constantines x2
@@ -207,7 +207,7 @@
 1. Dorothea Paas x2
 1. Doug Paisley
 1. Down With Webster
-1. Downchild Blues Band (w/Colin James, Colin Linden, James Cotton, Dan Aykroyd)
+1. Downchild Blues Band (ft. Colin James, Colin Linden, James Cotton, Dan Aykroyd)
 1. Dress Rehearsal
 1. The Dress Whites x2
 1. Drew Smith / Dr. Ew x4
@@ -259,7 +259,7 @@
 1. Franz Ferdinand
 1. Fred Penner
 1. Fresh Snow
-1. Friday Morning's Regret
+1. Friday Morning's Regret (The Wooden Sky)
 1. Friendly Rich & The Lollipop People
 1. Frigg
 1. Frontiers
@@ -280,7 +280,7 @@
 1. Golden Dogs
 1. Gomez
 1. Good Brothers
-1. Good Enough x5
+1. Good Enough Live Karaoke x5
 1. The Good Lovelies x2
 1. Goon Squad
 1. Gordon Lightfoot x2
@@ -301,7 +301,7 @@
 1. Hawksley Workman
 1. Hayden
 1. Hedley
-1. Heebee-Jeebees xLOTS
+1. Heebee-Jeebees x?
 1. Hemming
 1. Henri Fabergé and the Adorables
 1. Herbie Hancock
@@ -371,7 +371,7 @@
 1. Joe Bonamassa
 1. Joe Pernice
 1. Joel Fafard
-1. Joel Plaskett w/ Bill Plaskett
+1. Joel Plaskett & Bill Plaskett
 1. Joel Plaskett Emergency x10
 1. John Caparulo
 1. John Cleese
@@ -409,11 +409,11 @@
 1. Klingon Assault Squad
 1. Kojo 'Easy' Damptey
 1. Kyle Micheal Murray
-1. La Strada
 1. Ladysmith Black Mambazo x2
 1. Lake Vernon Drowning
 1. La Luna
 1. Lang Lang
+1. La Strada
 1. Laura Barrett x5
 1. Leahy x2
 1. Lebarons
@@ -451,14 +451,14 @@
 1. Luluc
 1. LVL UP
 1. Lyle Lovett & His Large Band
-1. Maceo Parker (short)
+1. Maceo Parker
 1. The Magnificent Sevens
 1. Major Grange x2
 1. Makita Hack & The Log Rollers
 1. Mandibles
 1. The Manilennials
 1. Mantler
-1. Maria Ryan (with Chris Bennett)
+1. Maria Ryan & Chris Bennett
 1. Mark Holmes
 1. Mark Stanfield
 1. Mark Watson
@@ -506,7 +506,7 @@
 1. Nathan x2
 1. The National
 1. National Youth Orchestra of Canada 2005(?), 2010
-1. Neighbourhood Council
+1. Neighbourhood Council (Braids)
 1. Neil Quin
 1. Neil Young x2
 1. Neko Case x2
@@ -612,9 +612,9 @@
 1. Rock the Shtetl
 1. Rocket Surgery
 1. Roman Pilates
-1. Ron Hawkins x5 (1 w/Steve Singh)
+1. Ron Hawkins x5 (one w/Steve Singh)
 1. Ron Hawkins & The Do Good Assassins
-1. Ron Sexsmith x2 (1 short set)
+1. Ron Sexsmith x2
 1. Ronley Teper's Lipliners
 1. Rosemary Galloway Quartet (ft. Pat LaBarbera)
 1. Rosh Abdullah
@@ -662,9 +662,9 @@
 1. Skavenjah
 1. Skeleton (Me)
 1. The Skeletones Four
-1. Sloan x24 + CBC thing + c!c!c! mini-set
+1. Sloan x26
 1. Slippers x3
-1. Small Sins x3 (one as Ladies & Gentlemen)
+1. Small Sins x3 (one as The Ladies & Gentlemen)
 1. The Smugglers
 1. The Sojourners
 1. Songs from a Room
@@ -722,10 +722,10 @@
 1. Tom Cochrane & Red Rider
 1. Tom Papa x3
 1. Tommy Banks Quartette ft. PJ Perry
-1. Tony Dekker w/ Basia Bulat
+1. Tony Dekker & Basia Bulat
 1. Torngat
 1. Toronto Mendelssohn Choir x2
-1. Toronto Symphony Orchestra x(unknown)
+1. Toronto Symphony Orchestra x?
 1. Torres
 1. Tough Age
 1. Township Expansion x2
