@@ -218,7 +218,7 @@
 1. Dustin Bentall Outfit x2
 1. The Dying Arts
 1. Dylan Gott
-1. Düvö
+1. Dűvő
 1. Eamon McGrath
 1. The East End Lovelies
 1. The Easy Targets
