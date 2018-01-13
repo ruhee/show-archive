@@ -292,6 +292,7 @@
 1. Great Lake Swimmers x2
 1. Green Go
 1. Grey Lands
+1. Grounders
 1. Hamilton Trading Co.
 1. Handsome Family
 1. Hank ft. the Hank Collective
@@ -419,6 +420,7 @@
 1. Lebarons
 1. LeE HARVeY OsMOND
 1. Lee Konitz
+1. Lee Paradise
 1. Leo Kottke
 1. Leroy "The Grandmaster" Young
 1. Les Heures
