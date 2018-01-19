@@ -14,7 +14,7 @@
 1. Clarinet Panic (x6)
 1. Del Bel (x11)
 1. Entire Cities (x71, as guest x1)
-1. Good Enough Live Karaoke (x38)
+1. Good Enough Live Karaoke (x39)
 1. Henri Fabergé and the Adorables (x8)
 1. Jason Doell's _Delicate Triangles_ ensemble (Gladstone Hotel site-specific performance) (x2)
 1. Maybe Not (as guest)
