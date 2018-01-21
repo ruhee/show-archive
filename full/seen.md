@@ -85,7 +85,7 @@
 1. Bob Wiseman
 1. Bon Iver
 1. Bonjay
-1. Bookchop
+1. Bookchop x2
 1. Born Ruffians x2
 1. Boyfriend Material
 1. The Boy From ET
@@ -202,6 +202,7 @@
 1. DMBQ x2
 1. Dog Day
 1. Don McLean
+1. The Do Nothings
 1. Don Palmer
 1. Donny McCaslin
 1. Dorothea Paas x2

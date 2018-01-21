@@ -3,6 +3,7 @@
 1. Basement Arms (x10, as guest x1)
 1. Beverley McKiver Trio
 1. The Bicycles (x2)
+1. Bookchop (as guest)
 1. The Bop Fi's
 1. Bruce Peninsula
 1. Bry Webb (x3)
@@ -28,6 +29,7 @@
 1. Sloan (as guest) (lol)
 1. Slipper Orchestra
 1. Traplines
+1. Weak Hands
 1. The Weather Station (unknown ... tour guest mostly)
 1. XLNS
 1. York University Jazz Orchestra (x3+)
