@@ -18,6 +18,7 @@
 1. Good Enough Live Karaoke (x39)
 1. Henri Fabergé and the Adorables (x8)
 1. Jason Doell's _Delicate Triangles_ ensemble (Gladstone Hotel site-specific performance) (x2)
+1. Liam Gallagher Band
 1. Maybe Not (as guest)
 1. Maylee Todd (as guest)
 1. Meligrove Band (as guest)
