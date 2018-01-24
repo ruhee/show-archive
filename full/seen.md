@@ -137,7 +137,6 @@
 1. Chirgilchin
 1. Chris Smither
 1. Christine Fellows x2
-1. Crhymes
 1. Chuck Negron
 1. Chumbawamba (acoustic)
 1. City and Colour x2
@@ -152,6 +151,7 @@
 1. Colin James
 1. Colin Linden x2
 1. Colin Quinn
+1. Colin Stetson
 1. Colleen & Paul
 1. Come Back Barbara
 1. Conan O'Brien (ft. Andy Richter, Deon Cole)
@@ -166,6 +166,7 @@
 1. Craig Finn & the Uptown Controllers
 1. Creaking Tree String Quartet
 1. Creeping Nobodies
+1. Crhymes x2
 1. The Cult
 1. The Cybertronic Spree
 1. Dan Bern
@@ -282,6 +283,7 @@
 1. Gomez
 1. Good Brothers
 1. Good Enough Live Karaoke x5
+1. The Good Family
 1. The Good Lovelies x2
 1. Goon Squad
 1. Gordon Lightfoot x2
