@@ -171,6 +171,7 @@
 1. The Cybertronic Spree
 1. Dan Bern
 1. Daniel Lanois
+1. Danielle Duval
 1. Daniel Tosh x2
 1. Danny Barnes
 1. Danny Bhoy x2
@@ -251,6 +252,7 @@
 1. Final Fantasy x3
 1. First Aid Kit (Halifax - now Writer's Strike)
 1. FLAMES!
+1. Fleece
 1. Fleet Foxes
 1. Fleetwood Mac
 1. Foonyap
@@ -446,6 +448,7 @@
 1. The Loom (NYC)
 1. Loreena McKennitt
 1. Los Munequitos de Matanzas
+1. Lost Cousins
 1. Louis CK
 1. The Lowest of the Low x5
 1. Lowlands
@@ -503,6 +506,7 @@
 1. The Mocking Shadows
 1. Monica Garrido x2
 1. More or Les
+1. Moscow Apartment
 1. The Mountain Goats x2
 1. The Mountains and the Trees
 1. Mozart's Sister
