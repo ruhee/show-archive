@@ -252,6 +252,7 @@
 1. Final Fantasy x3
 1. First Aid Kit (Halifax - now Writer's Strike)
 1. FLAMES!
+1. The Flatliners
 1. Fleece
 1. Fleet Foxes
 1. Fleetwood Mac
@@ -323,6 +324,7 @@
 1. Hooded Fang x2
 1. Hoodo Hersi
 1. Hot Monogamy
+1. Hot Water Music
 1. Hot Wax Meltdown
 1. Houndstooth
 1. The Hours
@@ -336,6 +338,7 @@
 1. Imaginary Cities
 1. Inga Babinga
 1. Iron & Wine
+1. Iron Chic
 1. Isabel ZT
 1. Isla Craig
 1. The I Spies x2
