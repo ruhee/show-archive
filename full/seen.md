@@ -44,6 +44,7 @@
 1. ASK
 1. The Assistants
 1. Aurora Brown
+1. B-17
 1. Baby Eagle
 1. The Bad Plus
 1. B.A. Johnston
@@ -55,6 +56,7 @@
 1. Basement Arms x2
 1. Basia Bulat
 1. Battlefield Band
+1. The Beachmen
 1. Be Good Tanyas
 1. Beams x3
 1. Beast Cancer
@@ -690,6 +692,7 @@
 1. Spiral Beach x2
 1. Spirit Family Reunion
 1. Spitfires & Mayflowers
+1. Sportsfan
 1. Squeeze
 1. St Michael's Choir School x5
 1. Stars
