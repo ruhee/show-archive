@@ -139,6 +139,7 @@
 1. Chirgilchin
 1. Chris Smither
 1. Christine Fellows x2
+1. Chrys & Momo
 1. Chuck Negron
 1. Chumbawamba (acoustic)
 1. City and Colour x2
@@ -258,6 +259,7 @@
 1. Fleece
 1. Fleet Foxes
 1. Fleetwood Mac
+1. Focus Fires
 1. Foonyap
 1. Forces
 1. Forest City Lovers x2
@@ -301,6 +303,7 @@
 1. Green Go
 1. Grey Lands
 1. Grounders
+1. Haley & Josh
 1. Hamilton Trading Co.
 1. Handsome Family
 1. Hank ft. the Hank Collective

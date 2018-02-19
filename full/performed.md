@@ -31,7 +31,7 @@
 1. Sloan (as guest) (lol)
 1. Slipper Orchestra
 1. Traplines
-1. Weak Hands
+1. Weak Hands x2
 1. The Weather Station (unknown ... tour guest mostly)
 1. XLNS
 1. York University Jazz Orchestra (x3+)
