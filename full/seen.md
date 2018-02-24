@@ -58,7 +58,7 @@
 1. Battlefield Band
 1. The Beachmen
 1. Be Good Tanyas
-1. Beams x3
+1. Beams x4
 1. Beast Cancer
 1. Bedouin Soundclash x2
 1. Bela Fleck & the Flecktones
@@ -129,7 +129,7 @@
 1. Casey Mecija x2
 1. Casper Skulls
 1. Castlemusic
-1. catl
+1. catl x2
 1. Cayetana
 1. Caylie Staples & Felicity Williams
 1. CCMC
@@ -167,6 +167,7 @@
 1. Cowboy Celtic
 1. Cowboy Junkies
 1. Craig Finn & the Uptown Controllers
+1. Craig Robertson
 1. Creaking Tree String Quartet
 1. Creeping Nobodies
 1. Crhymes x2

@@ -1,5 +1,5 @@
 1. Andrew Ennals & His Checkered Past (x2)
-1. Andrew James Barker (x3)
+1. Andrew James Barker (x4)
 1. Basement Arms (x10, as guest x1)
 1. The Beachmen (as guest)
 1. Beverley McKiver Trio
