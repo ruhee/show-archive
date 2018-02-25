@@ -94,6 +94,7 @@
 1. Brad Mehldau Trio
 1. Brandi Carlile
 1. Brave Little Toaster
+1. Brenda
 1. Brent Jackson x2
 1. Brent Randall & His Pinecones x5
 1. Brian Dickinson Trio
@@ -127,6 +128,7 @@
 1. Carolina Chocolate Drops
 1. Carolyn Mark x2
 1. Casey Mecija x2
+1. Casey MQ
 1. Casper Skulls
 1. Castlemusic
 1. catl x2
@@ -290,6 +292,7 @@
 1. Golden Dogs
 1. Gomez
 1. Good Brothers
+1. Goodbye Honolulu
 1. Good Enough Live Karaoke x5
 1. The Good Family
 1. The Good Lovelies x2
@@ -424,6 +427,7 @@
 1. Klingon Assault Squad
 1. Kojo 'Easy' Damptey
 1. Kyle Micheal Murray
+1. Kylo
 1. Ladysmith Black Mambazo x2
 1. Lake Vernon Drowning
 1. La Luna
@@ -719,9 +723,11 @@
 1. Suzie Vinnick x2
 1. Sweet Thing
 1. The Swyves
+1. Sydanie
 1. Tacoma Hellfarm Tragedy
 1. Tarhana
 1. Tasseomancy
+1. Taylor Knox
 1. Teddy Thompson
 1. Teenanger
 1. Tegan & Sara
@@ -810,4 +816,5 @@
 1. Young Mother
 1. Young Rival
 1. Zeus x4
+1. Ziibiwan ᓯᐱᐘᐣ
 1. Zoobombs
