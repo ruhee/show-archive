@@ -8,6 +8,7 @@
 1. The Acorn x3
 1. Action Makes
 1. Ada Lee
+1. Adam Jesin
 1. Adrienne Young & Little Sadie
 1. Agnostic Mountain Gospel Choir
 1. A Hawk & A Hacksaw
@@ -764,6 +765,7 @@
 1. Tres Bien Ensemble
 1. Trish Klein
 1. Tropicanada Orchestra
+1. T. Thomason
 1. tUnE-yArDs
 1. TUNS x3
 1. Two Hours Traffic x3
