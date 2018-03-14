@@ -628,6 +628,7 @@
 1. Rich Aucoin x4
 1. Rich Hope
 1. Richie Havens
+1. Rick Maguire
 1. Ridley Bent
 1. Rita Chiarelli
 1. Robert Dayton
@@ -746,6 +747,7 @@
 1. Tim Gilbert
 1. Timber Timbre x2
 1. Tin Bangs
+1. Titus Andronicus
 1. TOFU x2
 1. Tom Cochrane & Red Rider
 1. Tom Papa x3
