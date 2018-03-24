@@ -263,6 +263,7 @@
 1. Fleece
 1. Fleet Foxes
 1. Fleetwood Mac
+1. Floss
 1. Focus Fires
 1. Foonyap
 1. Forces
@@ -323,7 +324,7 @@
 1. Henri Fabergé and the Adorables
 1. Herbie Hancock
 1. Hey Rosetta!
-1. The Highest Order
+1. The Highest Order x2
 1. The Hit Pickers
 1. Hoa Hoas
 1. Hobson's Choice
@@ -471,6 +472,7 @@
 1. Luge
 1. Luke Doucet x2
 1. Luluc
+1. Luyos MC
 1. LVL UP
 1. Lyle Lovett & His Large Band
 1. Maceo Parker
@@ -521,6 +523,7 @@
 1. Monica Garrido x2
 1. More or Les
 1. Moscow Apartment
+1. Moul D
 1. The Mountain Goats x2
 1. The Mountains and the Trees
 1. Mozart's Sister
@@ -725,6 +728,7 @@
 1. The Sure Things
 1. Suzie McNeil
 1. Suzie Vinnick x2
+1. Sweet Pea
 1. Sweet Thing
 1. The Swyves
 1. Sydanie
