@@ -207,6 +207,7 @@
 1. Dickie Haydon
 1. Dinner Belles
 1. Dino Martinis x2
+1. Divide & Dissolve
 1. Django Django
 1. DMBQ x2
 1. Dog Day
@@ -815,7 +816,7 @@
 1. Woodpigeon
 1. Wyclef Jean
 1. Wynton Marsalis & LCJO x2
-1. Yamantaka//Sonic Titan
+1. Yamantaka//Sonic Titan x2
 1. Yas Kween Players
 1. Yes
 1. Yoko Casionos
