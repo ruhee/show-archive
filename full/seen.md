@@ -296,6 +296,7 @@
 1. Gomez
 1. Good Brothers
 1. Goodbye Honolulu
+1. The Good Bye Lauras
 1. Good Enough Live Karaoke x5
 1. The Good Family
 1. The Good Lovelies x2
@@ -408,6 +409,7 @@
 1. Jon-Rae and the River x3
 1. Josh Ritter
 1. Julie Doiron x3
+1. The Jumpsuits
 1. The Just Barelys
 1. Justin Adams & Juldeh Camara
 1. Justin Bacchus
@@ -417,6 +419,7 @@
 1. Kara Harun x2
 1. Kat Burns
 1. Kat Danser
+1. Kat Nap
 1. Kawa Brass Band
 1. Kellylee Evans
 1. Ken Reaume
@@ -435,6 +438,7 @@
 1. Lake Vernon Drowning
 1. La Luna
 1. Lang Lang
+1. Last Kill
 1. La Strada
 1. Laura Barrett x5
 1. Leahy x2
@@ -625,6 +629,7 @@
 1. Ray Price
 1. Reflectiostack
 1. Reggie Watts
+1. Resting Beach Face
 1. Retribution Gospel Choir
 1. The Reverend Bob Levy
 1. Rez Abbasi Group
@@ -737,6 +742,7 @@
 1. Tarhana
 1. Tasseomancy
 1. Taylor Knox
+1. TEAL
 1. Teddy Thompson
 1. Teenanger
 1. Tegan & Sara
@@ -780,6 +786,7 @@
 1. Tyler Hornby Quartet
 1. Ultra Magnus
 1. Umalali
+1. Ünicat
 1. The Unseen Strangers
 1. Unwigged & Unplugged: Guest, McKean, Shearer
 1. Valentine Ho
