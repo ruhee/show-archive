@@ -192,6 +192,7 @@
 1. David Gray
 1. David Sedaris
 1. dd/mm/yyyy
+1. Dead Rider
 1. Dearly Beloved
 1. The Decemberists
 1. Deep 6 Jazz Sextet x2
@@ -529,7 +530,7 @@
 1. More or Les
 1. Moscow Apartment
 1. Moul D
-1. The Mountain Goats x2
+1. The Mountain Goats x3
 1. The Mountains and the Trees
 1. Mozart's Sister
 1. Murley/Braid Quartet
