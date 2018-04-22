@@ -254,6 +254,7 @@
 1. Escort
 1. Evan Gordon & His Sad Clowns
 1. Evelyn Glennie
+1. Eyeballs
 1. Faith Healer
 1. Feist x2
 1. Feuermusik
@@ -529,6 +530,7 @@
 1. Monica Garrido x2
 1. More or Les
 1. Moscow Apartment
+1. Mother Tongues
 1. Moul D
 1. The Mountain Goats x3
 1. The Mountains and the Trees
@@ -700,6 +702,7 @@
 1. The Skeletones Four
 1. Sloan x26
 1. Slippers x3
+1. Slutcode
 1. Small Sins x3 (one as The Ladies & Gentlemen)
 1. The Smugglers
 1. The Sojourners
