@@ -774,7 +774,8 @@
 1. Torres
 1. Tough Age
 1. Township Expansion x2
-1. Tragically Hip x3
+1. The Tragically Hip x3
+1. The Tragically Hits
 1. Trampled By Turtles x2
 1. Trap Tiger
 1. Treasa Levasseur
