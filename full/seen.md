@@ -198,6 +198,7 @@
 1. Deep 6 Jazz Sextet x2
 1. The Deep Dark Woods
 1. Definition of Knowledge
+1. Deliluh
 1. DeMayo
 1. The Denumonts
 1. Diana
@@ -251,6 +252,7 @@
 1. The Entrance Band
 1. The Envy
 1. Eons x3
+1. E-Saggila
 1. Escort
 1. Evan Gordon & His Sad Clowns
 1. Evelyn Glennie
@@ -280,7 +282,7 @@
 1. Friendly Rich & The Lollipop People
 1. Frigg
 1. Frontiers
-1. Fucked Up x2
+1. Fucked Up x3
 1. Fusion Comedy
 1. Gal Costa
 1. Gay
@@ -789,6 +791,7 @@
 1. Two Hours Traffic x3
 1. Two Koreas
 1. Tyler Hornby Quartet
+1. Tyriqueordie
 1. Ultra Magnus
 1. Umalali
 1. Ünicat
