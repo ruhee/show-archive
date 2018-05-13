@@ -702,7 +702,7 @@
 1. Skavenjah
 1. Skeleton (Me)
 1. The Skeletones Four
-1. Sloan x26
+1. Sloan x27
 1. Slippers x3
 1. Slutcode
 1. Small Sins x3 (one as The Ladies & Gentlemen)
