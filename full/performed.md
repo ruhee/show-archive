@@ -5,7 +5,7 @@
 1. The Beachmen (as guest)
 1. Beverley McKiver Trio
 1. The Bicycles (x2)
-1. Bookchop (as guest)
+1. Bookchop (as guest x2)
 1. The Bop Fi's
 1. Bruce Peninsula
 1. Bry Webb (x3)

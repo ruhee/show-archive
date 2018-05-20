@@ -88,7 +88,7 @@
 1. Bob Wiseman
 1. Bon Iver
 1. Bonjay
-1. Bookchop x2
+1. Bookchop x3
 1. Born Ruffians x2
 1. Boyfriend Material
 1. The Boy From ET
@@ -107,6 +107,7 @@
 1. Buddy Guy
 1. Bueller x2
 1. Buffy Sainte-Marie
+1. Bunny
 1. The Burning Hell x3
 1. Burton Cummings
 1. Butterfly Boucher x2
@@ -844,3 +845,4 @@
 1. Zeus x4
 1. Ziibiwan ᓯᐱᐘᐣ
 1. Zoobombs
+1. Zorton and the Cannibals
