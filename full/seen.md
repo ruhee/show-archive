@@ -49,6 +49,7 @@
 1. Baby Eagle
 1. The Bad Plus
 1. B.A. Johnston
+1. Bald Britney
 1. Bankruptcy
 1. Barenaked Ladies x3
 1. The Barmitzvah Brothers
@@ -693,6 +694,7 @@
 1. Sharon Jones and the Dap-Kings x2
 1. Shawn Jurek & Team Power
 1. Shemekia Copeland
+1. Shilpa Ray
 1. Shitt Hottt
 1. Shooglenifty
 1. ShoShona Kish
