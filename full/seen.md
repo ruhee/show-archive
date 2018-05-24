@@ -5,6 +5,7 @@
 1. Abdominal & the Obliques
 1. Abigail Washburn & the Sparrow Quartet
 1. Absolutely Free
+1. Ace of Wands
 1. The Acorn x3
 1. Action Makes
 1. Ada Lee
@@ -654,7 +655,7 @@
 1. Rock the Shtetl
 1. Rocket Surgery
 1. Roman Pilates
-1. Ron Hawkins x5 (one w/Steve Singh)
+1. Ron Hawkins x6 (one w/Steve Singh)
 1. Ron Hawkins & The Do Good Assassins
 1. Ron Sexsmith x2
 1. Ronley Teper's Lipliners
