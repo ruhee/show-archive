@@ -28,6 +28,7 @@
 1. All the King's Voices
 1. Alonzo Bhodden
 1. Amos the Transparent
+1. Anagram
 1. Anathallo
 1. Andrew Bird
 1. Andrew Scott x2
@@ -163,6 +164,7 @@
 1. Colin Stetson
 1. Colleen & Paul
 1. Come Back Barbara
+1. Comet Control
 1. Conan O'Brien (ft. Andy Richter, Deon Cole)
 1. Conor Gains
 1. The Consonant C
@@ -318,6 +320,7 @@
 1. Green Go
 1. Grey Lands
 1. Grounders
+1. Group Hug
 1. Haley & Josh
 1. Hamilton Trading Co.
 1. Handsome Family
