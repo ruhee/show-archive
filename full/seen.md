@@ -24,6 +24,7 @@
 1. Alejandro Escovedo
 1. Alela Diane & Wild Divine
 1. Alexi Murdoch
+1. Alex Lukashevsky
 1. Aliya Kanani
 1. All the King's Voices
 1. Alonzo Bhodden
@@ -151,7 +152,7 @@
 1. Chumbawamba (acoustic)
 1. City and Colour x2
 1. City Field
-1. Clarinet Panic Deluxx
+1. Clarinet Panic Deluxx / Redux x2
 1. Classic Albums Live [The Last Waltz]
 1. The Clientele
 1. Clothes Make the Man
@@ -431,6 +432,7 @@
 1. Kat Danser
 1. Kat Nap
 1. Kawa Brass Band
+1. Kee Avil
 1. Kellylee Evans
 1. Ken Reaume
 1. Kenny Rogers
