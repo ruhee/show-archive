@@ -90,6 +90,7 @@
 1. Blue Rodeo x3
 1. Bobby McFerrin
 1. Bob Wiseman
+1. Bodega
 1. Bon Iver
 1. Bonjay
 1. Bookchop x3
@@ -299,6 +300,7 @@
 1. The Gertrudes
 1. Gina Yashere
 1. Glen Campbell
+1. Gloin
 1. The Gloom Room
 1. Glory Glory
 1. Godfrey
