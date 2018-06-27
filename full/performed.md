@@ -1,6 +1,6 @@
 1. The Agreeables (GRCT Rock Lottery)
 1. Andrew Ennals & His Checkered Past (x2)
-1. Andrew James Barker / Gunslinger 5 (x5)
+1. Andrew James Barker / Gunslinger 5/6 (x6)
 1. Basement Arms (x10, as guest x1)
 1. The Beachmen (as guest)
 1. Beverley McKiver Trio
