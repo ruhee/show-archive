@@ -443,6 +443,7 @@
 1. The Killers
 1. King Cuddy
 1. Kirk MacDonald
+1. Kitten Stevens
 1. KlezMerovitz
 1. Klingon Assault Squad
 1. Kojo 'Easy' Damptey
