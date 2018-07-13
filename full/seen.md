@@ -65,6 +65,7 @@
 1. Be Good Tanyas
 1. Beams x4
 1. Beast Cancer
+1. Becca Howes
 1. Bedouin Soundclash x2
 1. Bela Fleck & the Flecktones
 1. Belle & Sebastian
@@ -216,6 +217,7 @@
 1. Dickie Haydon
 1. Dinner Belles
 1. Dino Martinis x2
+1. Dinosaur Island
 1. Divide & Dissolve
 1. Django Django
 1. DMBQ x2
