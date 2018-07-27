@@ -144,6 +144,7 @@
 1. Caylie Staples & Felicity Williams
 1. CCMC
 1. Chad VanGaalen x3
+1. Chandra
 1. Cheap Speakers x2
 1. Chick Corea Trio
 1. Chirgilchin
@@ -297,7 +298,6 @@
 1. Gay
 1. Gentleman Reg
 1. Germans x2
-1. Germaphobes
 1. Gerry Hebert Quartet x2
 1. The Gertrudes
 1. Gina Yashere
@@ -315,6 +315,7 @@
 1. The Good Family
 1. The Good Lovelies x2
 1. Goon Squad
+1. Goosebump x2 (1x as Germaphobes)
 1. Gordon Lightfoot x2
 1. Graeme Lang & The Boxsets
 1. The Grass
@@ -614,6 +615,7 @@
 1. Paul Weadick
 1. The Payola$
 1. The People of Canada
+1. Persons
 1. The Persuasions
 1. Pete Correale
 1. Peter Cincotti
