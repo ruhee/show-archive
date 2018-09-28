@@ -367,7 +367,7 @@
 1. Imaginary Cities
 1. Inga Babinga
 1. Iron & Wine
-1. Iron Chic
+1. Iron Chic x2
 1. Isabel ZT
 1. Isla Craig
 1. The I Spies x2
@@ -731,6 +731,7 @@
 1. The Soul Motivators x8
 1. The Sour Notes
 1. Spacecraft 7
+1. Spanish Love Songs
 1. The Speaking Tongues
 1. Spiral Beach x2
 1. Spirit Family Reunion
