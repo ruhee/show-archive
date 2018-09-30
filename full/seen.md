@@ -342,7 +342,7 @@
 1. Henri Fabergé and the Adorables
 1. Herbie Hancock
 1. Hey Rosetta!
-1. The Highest Order x2
+1. The Highest Order x3
 1. The Hit Pickers
 1. Hoa Hoas
 1. Hobson's Choice
@@ -361,6 +361,7 @@
 1. The Hummers
 1. Hush Pup
 1. Hyena Dog Robbery
+1. Ian Daniel Kehoe
 1. Ice Cream
 1. Idiots of Ants
 1. illScarlett
@@ -823,7 +824,7 @@
 1. We Are Scientists
 1. We Take Lovers
 1. The Weakerthans
-1. The Weather Station x8
+1. The Weather Station x9
 1. Weaves
 1. The Wellington Wellingtons
 1. Weird Al Yankovic
