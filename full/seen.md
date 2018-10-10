@@ -220,7 +220,7 @@
 1. Dino Martinis x2
 1. Dinosaur Island
 1. Divide & Dissolve
-1. Django Django
+1. Django Django x2
 1. DMBQ x2
 1. Dog Day
 1. Don McLean
@@ -701,6 +701,7 @@
 1. Secret Sisters
 1. Secret Star
 1. Selina Martin
+1. The Shacks
 1. Shakura S'Aida
 1. Shannon Roszell
 1. Share
