@@ -651,6 +651,7 @@
 1. Reflectiostack
 1. Reggie Watts
 1. Resting Beach Face
+1. Restorations
 1. Retribution Gospel Choir
 1. The Reverend Bob Levy
 1. Rez Abbasi Group
@@ -835,6 +836,7 @@
 1. Wibi x4
 1. Wilco x2
 1. Wild Domestic x2
+1. Wild Pink
 1. The Wilderness of Manitoba
 1. Will Currie & the Country French x3
 1. William Carn Quintet
