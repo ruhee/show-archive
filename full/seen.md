@@ -292,7 +292,7 @@
 1. Friendly Rich & The Lollipop People
 1. Frigg
 1. Frontiers
-1. Fucked Up x3
+1. Fucked Up x4
 1. Fusion Comedy
 1. Gal Costa
 1. Gay
@@ -539,6 +539,7 @@
 1. Mike Murley
 1. Mike Murley Duo
 1. Mike Murley Septet
+1. Mil-Spec
 1. Mirah
 1. Miss Scarlett
 1. The Mis-Shapes
@@ -586,6 +587,7 @@
 1. NQ Arbuckle
 1. Numbers & Figures
 1. The Nymphets
+1. Nyssa
 1. Ohbijou x3
 1. Oh Susanna x2
 1. Okkervil River
@@ -863,6 +865,6 @@
 1. Young Mother
 1. Young Rival
 1. Zeus x4
-1. Ziibiwan ᓯᐱᐘᐣ
+1. Ziibiwan ᓯᐱᐘᐣ x2
 1. Zoobombs
 1. Zorton and the Cannibals
