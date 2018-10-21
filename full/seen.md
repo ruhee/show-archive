@@ -434,6 +434,7 @@
 1. K'Naan
 1. Kailash Kher & Kailasa
 1. Kara Harun x2
+1. KASHKA
 1. Kat Burns
 1. Kat Danser
 1. Kat Nap
@@ -473,6 +474,7 @@
 1. Liam Finn
 1. Lianne La Havas
 1. Lido Pimienta
+1. LILIM
 1. Lily Frost
 1. Lindsay Ell
 1. Lisa Bozikovic x2
@@ -524,9 +526,10 @@
 1. Mayor McCA
 1. Megafaun
 1. Megan Hamilton & the Volunteer Canola x2
-1. Meghan Harrison
+1. Meghan Harrison x2
 1. Meligrove Band x4
 1. Melissa McClelland
+1. Melody McKiver
 1. The Men They Couldn't Hang
 1. The Mercenaries
 1. Metric x2
@@ -568,7 +571,7 @@
 1. New Fries
 1. New Orleans Social Club
 1. The New Pornographers x3
-1. Nich Worby x6
+1. Nich Worby x7
 1. Nick Ferrio & His Feelings
 1. Nick Kroll & John Mulaney ("Oh, Hello")
 1. Nick Lowe
@@ -820,6 +823,7 @@
 1. The Unseen Strangers
 1. Unwigged & Unplugged: Guest, McKean, Shearer
 1. Valentine Ho
+1. Val Heimpel
 1. Van Morrison x2
 1. Vasen
 1. Walter/Halvorson/Evans trio
