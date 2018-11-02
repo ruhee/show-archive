@@ -674,7 +674,7 @@
 1. Rock the Shtetl
 1. Rocket Surgery
 1. Roman Pilates
-1. Ron Hawkins x6 (one w/Steve Singh)
+1. Ron Hawkins x7 (one w/Steve Singh)
 1. Ron Hawkins & The Do Good Assassins
 1. Ron Sexsmith x2
 1. Ronley Teper's Lipliners
@@ -726,6 +726,7 @@
 1. Skavenjah
 1. Skeleton (Me)
 1. The Skeletones Four
+1. Skye Wallace
 1. Sloan x27
 1. Slippers x3
 1. Slutcode
