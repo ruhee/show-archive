@@ -98,6 +98,7 @@
 1. Born Ruffians x2
 1. Boyfriend Material
 1. The Boy From ET
+1. boygenius
 1. Brad Mehldau Trio
 1. Brandi Carlile
 1. Brave Little Toaster
@@ -426,6 +427,7 @@
 1. Jon-Rae and the River x3
 1. Josh Ritter
 1. Julie Doiron x3
+1. Julien Baker
 1. The Jumpsuits
 1. The Just Barelys
 1. Justin Adams & Juldeh Camara
@@ -495,6 +497,7 @@
 1. Lowlands
 1. Lubo Alexandrov & Kaba Horo
 1. Lucinda Williams
+1. Lucy Dacus
 1. Luge
 1. Luke Doucet x2
 1. Luluc
@@ -629,7 +632,7 @@
 1. Petra Glynt
 1. PF Sloan
 1. Phèdre
-1. Phoebe Bridgers
+1. Phoebe Bridgers x2
 1. Picastro
 1. The Pill
 1. Pineville
