@@ -3,9 +3,9 @@
 1. Andrew James Barker / Gunslinger 5/6 x6
 1. Basement Arms x10, as guest x1
 1. The Beachmen (as guest)
-1. Beverley McKiver Trio
 1. The Bicycles x2
 1. Bookchop (as guest) x2
+1. Boozhoo Manoomin Ensemble x2
 1. The Bop Fi's
 1. Bruce Peninsula
 1. Bry Webb x3
