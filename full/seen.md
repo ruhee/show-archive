@@ -160,7 +160,7 @@
 1. Classic Albums Live [The Last Waltz]
 1. The Clientele
 1. Clothes Make the Man
-1. Cloud Nothings x2
+1. Cloud Nothings x3
 1. Coeur de Pirate x2
 1. Cold Specks
 1. Colin James
@@ -176,6 +176,7 @@
 1. Constantines x2
 1. The Cool Hands
 1. Corin Raymond
+1. The Courtneys
 1. Cousins
 1. Cowboy Celtic
 1. Cowboy Junkies
