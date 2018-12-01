@@ -176,6 +176,7 @@
 1. Constantines x2
 1. The Cool Hands
 1. Corin Raymond
+1. Courtney Gilmour
 1. The Courtneys
 1. Cousins
 1. Cowboy Celtic
@@ -426,6 +427,7 @@
 1. Johnny Summers' "Little Big Band"
 1. Jon-Rae Fletcher
 1. Jon-Rae and the River x3
+1. Josh Gondelman
 1. Josh Ritter
 1. Julie Doiron x3
 1. Julien Baker
@@ -579,6 +581,7 @@
 1. Nick Ferrio & His Feelings
 1. Nick Kroll & John Mulaney ("Oh, Hello")
 1. Nick Lowe
+1. Nigel Grinstead
 1. Nils Edenloff
 1. Ninja High School
 1. Niyaz
@@ -865,6 +868,7 @@
 1. Wynton Marsalis & LCJO x2
 1. YAMANTAKA // SONIC TITAN x2
 1. Yas Kween Players
+1. Yaw Attuah
 1. Yes
 1. Yoko Casionos
 1. York University Chamber Choir
