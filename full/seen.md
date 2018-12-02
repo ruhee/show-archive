@@ -117,6 +117,7 @@
 1. Bunny
 1. The Burning Hell x3
 1. Burton Cummings
+1. Butch Haller & His Chesterfield Ramblers
 1. Butterfly Boucher x2
 1. Cadence x3
 1. Caitlin Carey
