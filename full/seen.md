@@ -220,6 +220,7 @@
 1. Dick Gaughan
 1. Dick Mime
 1. Dickie Haydon
+1. Dilly Dally
 1. Dinner Belles
 1. Dino Martinis x2
 1. Dinosaur Island
@@ -296,7 +297,7 @@
 1. Friendly Rich & The Lollipop People
 1. Frigg
 1. Frontiers
-1. Fucked Up x4
+1. Fucked Up x5
 1. Fusion Comedy
 1. Gal Costa
 1. Gay
@@ -413,6 +414,7 @@
 1. Jimmy Carr
 1. Joe Bonamassa
 1. Joe Pernice
+1. Joel Eel
 1. Joel Fafard
 1. Joel Plaskett & Bill Plaskett
 1. Joel Plaskett Emergency x11
@@ -540,7 +542,7 @@
 1. The Men They Couldn't Hang
 1. The Mercenaries
 1. Metric x2
-1. Metz
+1. METZ x2
 1. Michael Feuerstack
 1. Michael Marcuzzi Ensemble
 1. Michael Morse
@@ -860,7 +862,7 @@
 1. Windermere String Quartet
 1. Winona LaDuke
 1. Wintersleep
-1. Witch Prophet x2
+1. Witch Prophet x3
 1. Wolf Parade
 1. Woodchoppers Association
 1. Woodhands x4
