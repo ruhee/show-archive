@@ -35,7 +35,7 @@
 1. Soup Can Theatre's _Love is a Poverty You Can Sell_ x21
 1. Soup Can Theatre's _LIAPYCS 2: Kisses for a Pfennig_ x11
 1. Traplines
-1. Weak Hands x6
+1. Weak Hands x7
 1. The Weather Station (unknown ... tour guest mostly)
 1. XLNS x2
 1. York University Jazz Orchestra x3+

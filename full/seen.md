@@ -252,6 +252,7 @@
 1. The Easy Targets
 1. Eddie Izzard
 1. Edie Brickell & the New Bohemians
+1. The Effens
 1. The Elected
 1. Eleni Mandell
 1. Elf Power
@@ -307,7 +308,7 @@
 1. The Gertrudes
 1. Gina Yashere
 1. Glen Campbell
-1. Gloin
+1. Gloin x2
 1. The Gloom Room
 1. Glory Glory
 1. Godfrey
@@ -585,6 +586,7 @@
 1. Nick Kroll & John Mulaney ("Oh, Hello")
 1. Nick Lowe
 1. Nigel Grinstead
+1. Nikki Fierce
 1. Nils Edenloff
 1. Ninja High School
 1. Niyaz
@@ -610,6 +612,7 @@
 1. Only Yours
 1. Ontario Power Generation
 1. Ornette Coleman
+1. Orville Peck
 1. Ottawa Bach Choir
 1. Our Lady Peace x2
 1. The Out of Towners x2
