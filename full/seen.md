@@ -187,6 +187,7 @@
 1. Creaking Tree String Quartet
 1. Creeping Nobodies
 1. Crhymes x2
+1. Cuff the Duke
 1. The Cult
 1. The Cybertronic Spree
 1. Dan Bern
@@ -365,6 +366,7 @@
 1. The Hours
 1. Hugh Fraser Orchestra (Banff Centre)
 1. The Hummers
+1. Huron
 1. Hush Pup
 1. Hyena Dog Robbery
 1. Ian Daniel Kehoe
