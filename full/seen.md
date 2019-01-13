@@ -187,10 +187,11 @@
 1. Creaking Tree String Quartet
 1. Creeping Nobodies
 1. Crhymes x2
-1. Cuff the Duke
+1. Cuff the Duke x2
 1. The Cult
 1. The Cybertronic Spree
 1. Dan Bern
+1. Dan Edmonds
 1. Daniel Lanois
 1. Danielle Duval
 1. Daniel Tosh x2
