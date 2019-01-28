@@ -63,7 +63,7 @@
 1. Battlefield Band
 1. The Beachmen
 1. Be Good Tanyas
-1. Beams x4
+1. Beams x5
 1. Beast Cancer
 1. Becca Howes
 1. Bedouin Soundclash x2
