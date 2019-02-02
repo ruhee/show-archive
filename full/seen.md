@@ -561,6 +561,7 @@
 1. The Mis-Shapes
 1. MJ Cyr
 1. The Mocking Shadows
+1. Molly Davis Band
 1. Monica Garrido x2
 1. More or Les
 1. Moscow Apartment
@@ -712,6 +713,7 @@
 1. Sam Parton
 1. Sam Roberts [Band] x3
 1. Sambacana
+1. Sandra Zelazny
 1. Sarah Harmer x2
 1. Sarah McLachlan x2
 1. Sarah Silverman
