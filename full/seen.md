@@ -501,7 +501,7 @@
 1. The Loom (NYC)
 1. Loreena McKennitt
 1. Los Munequitos de Matanzas
-1. Lost Cousins
+1. Lost Cousins x2
 1. Louis CK
 1. The Lowest of the Low x6
 1. Lowlands
@@ -763,7 +763,7 @@
 1. Spiral Beach x2
 1. Spirit Family Reunion
 1. Spitfires & Mayflowers
-1. Sportsfan
+1. Sportsfan x2
 1. Squeeze
 1. St Michael's Choir School x5
 1. Stars
