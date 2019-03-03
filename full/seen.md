@@ -556,6 +556,7 @@
 1. Mike Murley Duo
 1. Mike Murley Septet
 1. Mil-Spec
+1. Mip Power Trio
 1. Mirah
 1. Miss Scarlett
 1. The Mis-Shapes
@@ -780,6 +781,7 @@
 1. The Strumbellas x2
 1. Sufjan Stevens
 1. Sugar Sammy
+1. Summer & Youth
 1. The Superfantastics
 1. The Sure Things
 1. Suzie McNeil
