@@ -100,6 +100,7 @@
 1. The Boy From ET
 1. boygenius
 1. Brad Mehldau Trio
+1. Bram Gielen
 1. Brandi Carlile
 1. Brave Little Toaster
 1. Brenda
@@ -198,6 +199,7 @@
 1. Danny Barnes
 1. Danny Bhoy x2
 1. Danny Michel
+1. Dan Werb
 1. Darrol Anger & Mike Marshall
 1. David Braid Sextet x2
 1. David Byrne
@@ -687,6 +689,7 @@
 1. Rita Chiarelli
 1. Robert Dayton
 1. Robin Banks
+1. Robin Hatch
 1. Robin Williams
 1. Roch Voisine x2
 1. Rock the Shtetl
@@ -740,6 +743,7 @@
 1. ShoShona Kish
 1. Sightings
 1. Sigur Rós
+1. Simeon Abbott
 1. Sinistrio
 1. Sitcom
 1. Skavenjah
