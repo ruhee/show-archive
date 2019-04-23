@@ -130,6 +130,7 @@
 1. Calvin Johnson
 1. Camouflage Nights
 1. The Campbell Brothers
+1. Camp Cope
 1. Canaille Electric Trio
 1. Canailles
 1. The Cape May
@@ -812,6 +813,7 @@
 1. These United States
 1. Theory of a Deadman (sort of)
 1. Thickhawk
+1. Thin Lips
 1. Tia McGregor
 1. Tim Gilbert
 1. Timber Timbre x2
