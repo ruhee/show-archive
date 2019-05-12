@@ -131,6 +131,7 @@
 1. Camouflage Nights
 1. The Campbell Brothers
 1. Camp Cope
+1. Canadian Men's Chorus
 1. Canaille Electric Trio
 1. Canailles
 1. The Cape May
