@@ -1,13 +1,13 @@
 ### Artists seen (sort of "all-time" but mostly 2006-present)
 
-1. $100
+1. \$100
 1. 2AM Club
 1. 36?
 1. 45th Ave Jazz Band
 1. Abdominal & the Obliques
 1. Abigail Washburn & the Sparrow Quartet
 1. Absolutely Free
-1. Ace of Wands
+1. Ace of Wands x2
 1. The Acorn x3
 1. Action Makes
 1. Ada Lee
@@ -643,7 +643,7 @@
 1. Paul Simon
 1. Paul Ubana Jones
 1. Paul Weadick
-1. The Payola$
+1. The Payola\$
 1. The People of Canada
 1. Persons
 1. The Persuasions

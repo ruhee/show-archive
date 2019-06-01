@@ -22,6 +22,7 @@
 1. Henri Fabergé and the Adorables x8
 1. Jason Doell's _Delicate Triangles_ x2
 1. Liam Gallagher Band
+1. Lowest of the Low
 1. Maybe Not (as guest)
 1. Maylee Todd (as guest)
 1. Meligrove Band (as guest)
@@ -44,12 +45,15 @@
 1. York University Soul Collective (R&B band) x5?
 
 _Delicate Triangles_:
-* Gladstone Hotel (site-specific performance) x2
+
+- Gladstone Hotel (site-specific performance) x2
 
 _Love is a Poverty You Can Sell_:
-* Toronto Fringe 2010 x11
-* Best of Fringe Uptown 2010 x2
-* Next Stage Festival 2012 x8
+
+- Toronto Fringe 2010 x11
+- Best of Fringe Uptown 2010 x2
+- Next Stage Festival 2012 x8
 
 _Love is a Poverty You Can Sell 2: Kisses for a Pfennig_:
-* Toronto Fringe 2013 x11
+
+- Toronto Fringe 2013 x11
