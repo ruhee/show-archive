@@ -560,7 +560,7 @@
 1. Mick Thomas & Squeezebox Wally
 1. Mike Murley
 1. Mike Murley Duo
-1. Mike Murley Septet
+1. Mike Murley Septet x2
 1. Mil-Spec
 1. Mip Power Trio
 1. Mirah
