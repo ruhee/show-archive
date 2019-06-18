@@ -30,7 +30,7 @@
 1. Nich Worby
 1. Ruhee Dewji (solo) x2
 1. The Rural Alberta Advantage (as guest)
-1. Shrinehouse x9
+1. Shrinehouse x10
 1. Sloan (as guest) (lol)
 1. Slipper Orchestra
 1. Soup Can Theatre's _Love is a Poverty You Can Sell_ x21
