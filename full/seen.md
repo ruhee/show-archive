@@ -155,6 +155,7 @@
 1. Cheap Speakers x2
 1. Chick Corea Trio
 1. Chirgilchin
+1. Chris Brown
 1. Chris Smither
 1. Christine Fellows x2
 1. Chrys & Momo
@@ -456,6 +457,7 @@
 1. Kat Burns
 1. Kat Danser
 1. Kat Nap
+1. Kate Fenner
 1. Kawa Brass Band
 1. Kee Avil
 1. Kellylee Evans
@@ -620,6 +622,7 @@
 1. Old Man Luedecke
 1. Olenka & The Autumn Lovers
 1. Olu Dara
+1. One River
 1. Only Yours
 1. Ontario Power Generation
 1. Ornette Coleman
@@ -780,7 +783,7 @@
 1. Steamboat
 1. Stef McCarrol
 1. Stella Ella Ola
-1. Stephen Stanley x3 (2x with Chris Bennett)
+1. Stephen Stanley x4
 1. Stephen Stanley Band x3
 1. Steve Reich
 1. Steven McKay x2
@@ -793,6 +796,7 @@
 1. Summer & Youth
 1. The Superfantastics
 1. The Sure Things
+1. Suzanne Jarvie
 1. Suzie McNeil
 1. Suzie Vinnick x2
 1. Sweet Pea
