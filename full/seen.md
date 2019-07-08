@@ -472,6 +472,7 @@
 1. KlezMerovitz
 1. Klingon Assault Squad
 1. Kojo 'Easy' Damptey
+1. KVJazz Trio
 1. Kyle Micheal Murray
 1. Kylo
 1. Ladysmith Black Mambazo x2
