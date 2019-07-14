@@ -252,6 +252,7 @@
 1. Ducks Unlimited x2
 1. The Duhks
 1. Duotang
+1. Dupony
 1. Dustin Bentall Outfit x2
 1. The Dying Arts
 1. Dylan Gott
@@ -664,6 +665,7 @@
 1. Pink Martini
 1. Pixies
 1. PJ Perry
+1. Planchette
 1. Pocket Dwellers
 1. The Polyjesters xlots (x4)
 1. Pop Cherry
