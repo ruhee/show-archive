@@ -33,6 +33,7 @@
 1. Shrinehouse x10
 1. Sloan (as guest) (lol)
 1. Slipper Orchestra
+1. Soup Can Theatre 10th Anniversary Ensemble
 1. Soup Can Theatre's _Love is a Poverty You Can Sell_ x21
 1. Soup Can Theatre's _LIAPYCS 2: Kisses for a Pfennig_ x11
 1. Traplines
