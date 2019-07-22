@@ -147,7 +147,7 @@
 1. Casper Skulls
 1. Castlemusic
 1. catl x2
-1. Cayetana
+1. Cayetana x2
 1. Caylie Staples & Felicity Williams
 1. CCMC
 1. Chad VanGaalen x3
@@ -674,7 +674,7 @@
 1. Pottery
 1. Proof of Ghosts
 1. PS I Love You
-1. PUP
+1. PUP x2
 1. QR5
 1. Queen of Swords
 1. Queenz Quaytar
@@ -851,6 +851,7 @@
 1. T. Thomason
 1. tUnE-yArDs
 1. TUNS x3
+1. Twin Peaks
 1. Two Hours Traffic x3
 1. Two Koreas
 1. Tyler Hornby Quartet
