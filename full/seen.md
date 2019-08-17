@@ -892,7 +892,7 @@
 1. Winona LaDuke
 1. Wintersleep
 1. Witch Prophet x3
-1. Wolf Parade
+1. Wolf Parade x2
 1. Woodchoppers Association
 1. Woodhands x4
 1. Woodpigeon
