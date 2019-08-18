@@ -64,11 +64,12 @@
 1. Basia Bulat
 1. Battlefield Band
 1. The Beachmen
-1. Be Good Tanyas
 1. Beams x5
 1. Beast Cancer
 1. Becca Howes
+1. Beddy Bionic
 1. Bedouin Soundclash x2
+1. Be Good Tanyas
 1. Bela Fleck & the Flecktones
 1. Belle & Sebastian
 1. Bellowhead
@@ -245,6 +246,7 @@
 1. Doug Paisley
 1. Down With Webster
 1. Downchild Blues Band (ft. Colin James, Colin Linden, James Cotton, Dan Aykroyd)
+1. Dressed in Black
 1. Dress Rehearsal
 1. The Dress Whites x2
 1. Drew Smith / Dr. Ew x4
