@@ -196,7 +196,7 @@
 1. Crhymes x2
 1. Cuff the Duke x2
 1. The Cult
-1. The Cybertronic Spree
+1. The Cybertronic Spree x2
 1. Dan Bern
 1. Dan Edmonds
 1. Daniel Lanois
@@ -898,6 +898,7 @@
 1. Woodchoppers Association
 1. Woodhands x4
 1. Woodpigeon
+1. Wordburglar
 1. Wyclef Jean
 1. Wynton Marsalis & LCJO x2
 1. YAMANTAKA // SONIC TITAN x2
