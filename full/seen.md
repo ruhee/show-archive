@@ -156,7 +156,6 @@
 1. Cheap Speakers x2
 1. Chick Corea Trio
 1. Chirgilchin
-1. Chris Brown
 1. Chris Smither
 1. Christine Fellows x2
 1. Chrys & Momo
@@ -375,6 +374,7 @@
 1. Hot Wax Meltdown
 1. Houndstooth
 1. The Hours
+1. Hugh Christopher Brown x2
 1. Hugh Fraser Orchestra (Banff Centre)
 1. The Hummers
 1. Huron
@@ -482,6 +482,7 @@
 1. Lake Vernon Drowning
 1. La Luna
 1. Lang Lang
+1. Lara Taubman
 1. Last Kill
 1. La Strada
 1. Laura Barrett x5
@@ -707,6 +708,7 @@
 1. Roch Voisine x2
 1. Rock the Shtetl
 1. Rocket Surgery
+1. Rocky Roberts
 1. Roman Pilates
 1. Ron Hawkins x7 (one w/Steve Singh)
 1. Ron Hawkins & The Do Good Assassins
@@ -788,7 +790,7 @@
 1. Steamboat
 1. Stef McCarrol
 1. Stella Ella Ola
-1. Stephen Stanley x4 / Stephen Stanley Band x4
+1. Stephen Stanley x5 / Stephen Stanley Band x4
 1. Steve Reich
 1. Steven McKay x2
 1. Steven Page x4
