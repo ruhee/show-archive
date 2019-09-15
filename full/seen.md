@@ -305,7 +305,6 @@
 1. Franz Ferdinand
 1. Fred Penner
 1. Fresh Snow
-1. Friday Morning's Regret (The Wooden Sky)
 1. Friendly Rich & The Lollipop People
 1. Frigg
 1. Frontiers
@@ -768,7 +767,7 @@
 1. Sloan x27
 1. Slippers x3
 1. Slutcode
-1. Small Sins x3 (one as The Ladies & Gentlemen)
+1. Small Sins x3 (1x as The Ladies & Gentlemen)
 1. The Smugglers
 1. The Sojourners
 1. Songs from a Room
@@ -897,6 +896,7 @@
 1. Witch Prophet x3
 1. Wolf Parade x2
 1. Woodchoppers Association
+1. The Wooden Sky x2 (1x as Friday Morning's Regret)
 1. Woodhands x4
 1. Woodpigeon
 1. Wordburglar
