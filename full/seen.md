@@ -519,7 +519,7 @@
 1. Lowlands
 1. Lubo Alexandrov & Kaba Horo
 1. Lucinda Williams
-1. Lucy Dacus
+1. Lucy Dacus x2
 1. Luge
 1. Luke Doucet x2
 1. Luluc
@@ -680,6 +680,7 @@
 1. QR5
 1. Queen of Swords
 1. Queenz Quaytar
+1. Quinn Christopherson
 1. Quite Nice
 1. Radius & Helena
 1. Rajiv Thavanathan
