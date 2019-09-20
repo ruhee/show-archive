@@ -43,6 +43,7 @@
 1. Amy Bishop
 1. Amy Sky
 1. Apostle of Hustle
+1. Ari Lennox
 1. Arj Barker
 1. Arrested Development
 1. Arrogant Worms x2
@@ -509,6 +510,7 @@
 1. Little City
 1. Little Miss Higgins x2
 1. Little Scream
+1. Lizzo
 1. Lockbox
 1. The Loom (NYC)
 1. Loreena McKennitt
