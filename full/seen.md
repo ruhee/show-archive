@@ -411,6 +411,7 @@
 1. Jay Crocker
 1. JDiggz
 1. Jeff Mangum
+1. Jeff Ray & Mikkel Beckman
 1. Jen Sakato
 1. Jenn Grant
 1. Jeremy Hotz
@@ -697,7 +698,7 @@
 1. The Reverend Bob Levy
 1. Rez Abbasi Group
 1. Ribbons of Song
-1. Rich Aucoin x4
+1. Rich Aucoin x5
 1. Rich Hope
 1. Richie Havens
 1. Rick Maguire
@@ -859,6 +860,7 @@
 1. Twin Peaks
 1. Two Hours Traffic x3
 1. Two Koreas
+1. TWRP
 1. Tyler Hornby Quartet
 1. Tyriqueordie
 1. Ultra Magnus
