@@ -30,7 +30,7 @@
 1. Nich Worby
 1. Ruhee Dewji (solo) x2
 1. The Rural Alberta Advantage (as guest)
-1. Shrinehouse x11
+1. Shrinehouse x12
 1. Sloan (as guest) (lol)
 1. Slipper Orchestra
 1. Soup Can Theatre 10th Anniversary Ensemble
