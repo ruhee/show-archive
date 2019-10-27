@@ -627,6 +627,7 @@
 1. Ohbijou x3
 1. Oh Susanna x2
 1. Okkervil River
+1. Old Kid
 1. Old Man Luedecke
 1. Olenka & The Autumn Lovers
 1. Olu Dara
@@ -794,7 +795,7 @@
 1. Steamboat
 1. Stef McCarrol
 1. Stella Ella Ola
-1. Stephen Stanley x5 / Stephen Stanley Band x4
+1. Stephen Stanley x5 / Stephen Stanley Band x5
 1. Steve Reich
 1. Steven McKay x2
 1. Steven Page x4
