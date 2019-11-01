@@ -790,7 +790,7 @@
 1. Spitfires & Mayflowers
 1. Sportsfan x2
 1. Squeeze
-1. St Michael's Choir School x5
+1. Stardust
 1. Stars
 1. Steamboat
 1. Stef McCarrol
@@ -800,6 +800,7 @@
 1. Steven McKay x2
 1. Steven Page x4
 1. Stevie Jackson
+1. St Michael's Choir School x5
 1. Stomp! (New York)
 1. The Strumbellas x2
 1. Sufjan Stevens
