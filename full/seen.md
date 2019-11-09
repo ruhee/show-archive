@@ -387,6 +387,7 @@
 1. illScarlett
 1. Imaginary Cities
 1. Inga Babinga
+1. The Invisible Hands
 1. Iron & Wine
 1. Iron Chic x2
 1. Isabel ZT
@@ -670,6 +671,7 @@
 1. The Pill
 1. Pineville
 1. Pink Martini
+1. Pink Palace
 1. Pixies
 1. PJ Perry
 1. Planchette
