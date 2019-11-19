@@ -813,6 +813,7 @@
 1. Suzanne Jarvie
 1. Suzie McNeil
 1. Suzie Vinnick x2
+1. Swanson & McAnsh
 1. Sweet Pea
 1. Sweet Thing
 1. The Swyves
