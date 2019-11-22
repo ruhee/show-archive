@@ -137,6 +137,7 @@
 1. Canaille Electric Trio
 1. Canailles
 1. The Cape May
+1. Carina & the Six String Preacher
 1. Carlos Antenna
 1. Carly Rae Jepsen
 1. Carmen Elle
@@ -293,6 +294,7 @@
 1. Final Fantasy x3
 1. First Aid Kit (Halifax - now Writer's Strike)
 1. FLAMES!
+1. The Flaming Decisions
 1. The Flatliners
 1. Fleece
 1. Fleet Foxes
@@ -671,7 +673,7 @@
 1. The Pill
 1. Pineville
 1. Pink Martini
-1. Pink Palace
+1. Pink Palace x2
 1. Pixies
 1. PJ Perry
 1. Planchette
@@ -717,7 +719,7 @@
 1. Rocket Surgery
 1. Rocky Roberts
 1. Roman Pilates
-1. Ron Hawkins x7 (one w/Steve Singh)
+1. Ron Hawkins x8 (1x w/Steve Singh, 1x w/Christopher Plock)
 1. Ron Hawkins & The Do Good Assassins
 1. Ron Sexsmith x2
 1. Ronley Teper's Lipliners
