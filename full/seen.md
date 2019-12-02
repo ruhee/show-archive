@@ -27,6 +27,7 @@
 1. Alela Diane & Wild Divine
 1. Alexi Murdoch
 1. Alex Lukashevsky
+1. Alex Samaras
 1. Aliya Kanani
 1. All the King's Voices
 1. Alonzo Bhodden
