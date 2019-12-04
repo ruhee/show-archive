@@ -722,7 +722,7 @@
 1. Rocky Roberts
 1. Roman Pilates
 1. Ron Hawkins x8 (1x w/Steve Singh, 1x w/Christopher Plock)
-1. Ron Hawkins & The Do Good Assassins
+1. Ron Hawkins & The Do Good Assassins x2
 1. Ron Sexsmith x2
 1. Ronley Teper's Lipliners
 1. Rosemary Galloway Quartet (ft. Pat LaBarbera)
