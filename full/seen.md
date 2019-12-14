@@ -775,7 +775,7 @@
 1. Skavenjah
 1. Skeleton (Me)
 1. The Skeletones Four
-1. Skye Wallace
+1. Skye Wallace x2 (1x solo)
 1. Sloan x27
 1. Slippers x3
 1. Slutcode
