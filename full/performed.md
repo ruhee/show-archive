@@ -37,7 +37,7 @@
 1. Soup Can Theatre 10th Anniversary Ensemble
 1. Soup Can Theatre's _Love is a Poverty You Can Sell_ x21
 1. Soup Can Theatre's _LIAPYCS 2: Kisses for a Pfennig_ x11
-1. Stephen Stanley (as guest)
+1. Stephen Stanley x2 (as guest)
 1. Traplines
 1. Weak Hands x9
 1. The Weather Station (unknown ... tour guest mostly)

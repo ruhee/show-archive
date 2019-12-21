@@ -801,7 +801,7 @@
 1. Steamboat
 1. Stef McCarrol
 1. Stella Ella Ola
-1. Stephen Stanley x5 / Stephen Stanley Band x5
+1. Stephen Stanley x6 / Stephen Stanley Band x5
 1. Steve Reich
 1. Steven McKay x2
 1. Steven Page x4
