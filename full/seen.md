@@ -210,7 +210,7 @@
 1. Danny Michel
 1. Dan Werb
 1. Darrol Anger & Mike Marshall
-1. David Braid Sextet x2
+1. David Braid Sextet x3
 1. David Byrne
 1. David Byrne & St. Vincent
 1. David Clayton-Thomas
