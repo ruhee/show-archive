@@ -881,7 +881,7 @@
 1. Unwigged & Unplugged: Guest, McKean, Shearer
 1. Valentine Ho
 1. Val Heimpel
-1. Vancouver TheatreSports League
+1. Vancouver TheatreSports League x2
 1. Van Morrison x2
 1. Vasen
 1. Walter/Halvorson/Evans trio
