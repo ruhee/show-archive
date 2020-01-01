@@ -156,6 +156,7 @@
 1. CCMC
 1. Chad VanGaalen x3
 1. Chandra
+1. Char Aragoza
 1. Cheap Speakers x2
 1. Chick Corea Trio
 1. Chirgilchin
@@ -492,7 +493,7 @@
 1. Lara Taubman
 1. Last Kill
 1. La Strada
-1. Laura Barrett x5
+1. Laura Barrett x6
 1. Leahy x2
 1. Lebarons
 1. LeE HARVeY OsMOND
@@ -587,7 +588,7 @@
 1. Monica Garrido x2
 1. More or Les
 1. Moscow Apartment
-1. Mother Tongues
+1. Mother Tongues x2
 1. Moul D
 1. The Mountain Goats x3
 1. The Mountains and the Trees
@@ -696,6 +697,7 @@
 1. Radius & Helena
 1. Rajiv Thavanathan
 1. Random Access
+1. Rapport
 1. Ray LaMontagne
 1. Ray Price
 1. Reflectiostack
