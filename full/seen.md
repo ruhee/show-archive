@@ -361,6 +361,7 @@
 1. Hedley
 1. Heebee-Jeebees x?
 1. Hemming
+1. Henning Kraggerud
 1. Henri Fabergé and the Adorables
 1. Herbie Hancock
 1. Hey Rosetta!
@@ -427,6 +428,7 @@
 1. Jesse Cook
 1. Jetplanes of Abraham x2
 1. Jetset Motel
+1. Jian Wang
 1. Jim Brickman
 1. Jim Byrnes
 1. Jim Cuddy Band x2
@@ -757,6 +759,7 @@
 1. Secret Sisters
 1. Secret Star
 1. Selina Martin
+1. Seong-Jin Cho
 1. The Shacks
 1. Shakura S'Aida
 1. Shannon Roszell
@@ -854,7 +857,7 @@
 1. Tony Dekker & Basia Bulat
 1. Torngat
 1. Toronto Mendelssohn Choir x2
-1. Toronto Symphony Orchestra x?
+1. Toronto Symphony Orchestra x7+
 1. Torres
 1. Tough Age
 1. Township Expansion x2
