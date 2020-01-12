@@ -386,7 +386,7 @@
 1. Huron
 1. Hush Pup
 1. Hyena Dog Robbery
-1. Ian Daniel Kehoe
+1. Ian Daniel Kehoe x2
 1. Ice Cream
 1. Idiots of Ants
 1. illScarlett
@@ -453,6 +453,7 @@
 1. Johnny Summers' "Little Big Band"
 1. Jon-Rae Fletcher
 1. Jon-Rae and the River x3
+1. Joseph Shabason
 1. Josh Gondelman
 1. Josh Ritter
 1. Julie Doiron x3
@@ -621,6 +622,7 @@
 1. Niyaz
 1. Noah Gundersen
 1. Noel Gallagher's High Flying Birds
+1. No Frills
 1. Nous Nous et Vous
 1. Norah Jones
 1. North Mississippi All Stars
@@ -718,7 +720,7 @@
 1. Rita Chiarelli
 1. Robert Dayton
 1. Robin Banks
-1. Robin Hatch
+1. Robin Hatch x2
 1. Robin Williams
 1. Roch Voisine x2
 1. Rock the Shtetl
