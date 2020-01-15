@@ -223,6 +223,7 @@
 1. Dearly Beloved
 1. The Decemberists
 1. Deep 6 Jazz Sextet x2
+1. Deep Blue Organ Trio
 1. The Deep Dark Woods
 1. Definition of Knowledge
 1. Deliluh
@@ -230,7 +231,7 @@
 1. The Denumonts
 1. Diana
 1. Diana Jones
-1. Diana Krall
+1. Diana Krall x2
 1. Dick Gaughan
 1. Dick Mime
 1. Dickie Haydon
@@ -706,11 +707,13 @@
 1. Ray Price
 1. Reflectiostack
 1. Reggie Watts
+1. The Rest
 1. Resting Beach Face
 1. Restorations
 1. Retribution Gospel Choir
 1. The Reverend Bob Levy
 1. Rez Abbasi Group
+1. Rheostats
 1. Ribbons of Song
 1. Rich Aucoin x5
 1. Rich Hope
@@ -806,6 +809,7 @@
 1. Stardust
 1. Stars
 1. Steamboat
+1. Steely Dan x2
 1. Stef McCarrol
 1. Stella Ella Ola
 1. Stephen Stanley x7 / Stephen Stanley Band x5
