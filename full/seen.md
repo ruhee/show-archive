@@ -160,6 +160,7 @@
 1. Cheap Speakers x2
 1. Chick Corea Trio
 1. Chirgilchin
+1. Chris Sandiford
 1. Chris Smither
 1. Christine Fellows x2
 1. Chrys & Momo
@@ -182,6 +183,7 @@
 1. Come Back Barbara
 1. Comet Control
 1. Conan O'Brien (ft. Andy Richter, Deon Cole)
+1. Connie Manfredi
 1. Conor Gains
 1. The Consonant C
 1. Constantines x2
@@ -616,6 +618,7 @@
 1. Nick Ferrio & His Feelings
 1. Nick Kroll & John Mulaney ("Oh, Hello")
 1. Nick Lowe
+1. Nicole Byblow
 1. Nigel Grinstead
 1. Nikki Fierce
 1. Nils Edenloff
@@ -632,6 +635,7 @@
 1. Nour Hadidi
 1. Now Yr Taken
 1. NQ Arbuckle
+1. Nug Nahrgang
 1. Numbers & Figures
 1. The Nymphets
 1. Nyssa
@@ -729,6 +733,7 @@
 1. Rock the Shtetl
 1. Rocket Surgery
 1. Rocky Roberts
+1. Rodrigo Fernandez-Stoll
 1. Roman Pilates
 1. Ron Hawkins x8 (1x w/Steve Singh, 1x w/Christopher Plock)
 1. Ron Hawkins & The Do Good Assassins x2
@@ -769,6 +774,7 @@
 1. Shakura S'Aida
 1. Shannon Roszell
 1. Share
+1. Sharjil Rasool
 1. Sharon Isbin
 1. Sharon Jones and the Dap-Kings x2
 1. Shawn Jurek & Team Power
@@ -858,12 +864,13 @@
 1. Titus Andronicus x2
 1. TOFU x2
 1. Tom Cochrane & Red Rider
+1. Tom Hearn
 1. Tom Papa x3
 1. Tommy Banks Quartette ft. PJ Perry
 1. Tony Dekker & Basia Bulat
 1. Torngat
-1. Toronto Mendelssohn Choir x2
-1. Toronto Symphony Orchestra x7+
+1. Toronto Mendelssohn Choir x3
+1. Toronto Symphony Orchestra x8+
 1. Torres
 1. Tough Age
 1. Township Expansion x2
