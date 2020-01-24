@@ -278,6 +278,7 @@
 1. Elizabeth Shepherd
 1. Elliott Brood x2
 1. Ellis Marsalis Quartet
+1. Elrichman
 1. The Elwins
 1. Emily Wells
 1. Emma-Lee
@@ -363,6 +364,7 @@
 1. Hayden
 1. Hedley
 1. Heebee-Jeebees x?
+1. Hélène Barbier
 1. Hemming
 1. Henning Kraggerud
 1. Henri Fabergé and the Adorables
@@ -595,6 +597,7 @@
 1. More or Les
 1. Moscow Apartment
 1. Mother Tongues x2
+1. Motorists
 1. Moul D
 1. The Mountain Goats x3
 1. The Mountains and the Trees
