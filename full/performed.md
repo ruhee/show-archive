@@ -30,7 +30,7 @@
 1. The Natural Shocks (as guest) x3
 1. Nich Worby
 1. Robin Hatch
-1. Ron Hawkins & The Do Good Assassins x4 (as guest)
+1. Ron Hawkins & The Do Good Assassins x5 (as guest)
 1. Ruhee Dewji (solo) x2
 1. The Rural Alberta Advantage (as guest)
 1. Shrinehouse x13
