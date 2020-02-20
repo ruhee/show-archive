@@ -931,7 +931,7 @@
 1. Winona LaDuke
 1. Wintersleep
 1. Witch Prophet x3
-1. Wolf Parade x2
+1. Wolf Parade x3
 1. Woodchoppers Association
 1. The Wooden Sky x2 (1x as Friday Morning's Regret)
 1. Woodhands x4
