@@ -51,6 +51,7 @@
 1. Artie Lange
 1. ASK
 1. The Assistants
+1. Aunty Social
 1. Aurora Brown
 1. B-17
 1. Baby Eagle
@@ -313,6 +314,7 @@
 1. Fox Jaws
 1. Frankie Valli & The Four Seasons
 1. Franz Ferdinand
+1. Frazey Ford
 1. Fred Penner
 1. Fresh Snow
 1. Friendly Rich & The Lollipop People
@@ -670,6 +672,7 @@
 1. Paul Ashwell Orchestra
 1. Paul Banwatt
 1. Paul Read Orchestra
+1. Paul Reddick
 1. Paul Simon
 1. Paul Ubana Jones
 1. Paul Weadick
