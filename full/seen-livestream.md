@@ -15,8 +15,8 @@ The pandemic and all.
 1. Mimi O'Bonsawin x2
 1. Moscow Apartment
 1. Praises
-1. Ron Hawkins x11
+1. Ron Hawkins x14
 1. Sarah Harmer
 1. Skye Wallace x2
-1. Stephen Stanley x6
+1. Stephen Stanley x7 (1 w/ Ron Hawkins)
 1. The Weather Station
