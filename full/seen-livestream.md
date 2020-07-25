@@ -5,6 +5,7 @@ The pandemic and all.
 1. Bird City
 1. Chris Coole & Julie Lawson
 1. Chris Murphy
+1. Dan Taylor
 1. David Corley
 1. Drew Danburry
 1. Guante
@@ -15,8 +16,8 @@ The pandemic and all.
 1. Mimi O'Bonsawin x2
 1. Moscow Apartment
 1. Praises
-1. Ron Hawkins x14
+1. Ron Hawkins x15
 1. Sarah Harmer
 1. Skye Wallace x2
-1. Stephen Stanley x7 (1 w/ Ron Hawkins)
+1. Stephen Stanley x8 (1 w/ Ron Hawkins, 1 w/ Alun Piggins)
 1. The Weather Station
