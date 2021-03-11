@@ -34,6 +34,6 @@ The pandemic and all.
 1. Ron Hawkins x29
 1. Sarah Harmer
 1. Skye Wallace x2
-1. Stephen Stanley x13 (1 w/ Ron Hawkins, 1 w/ Alun Piggins, 1 w/ Lawrence Nichols)
+1. Stephen Stanley x14 (1 w/ Ron Hawkins, 1 w/ Alun Piggins, 1 w/ Lawrence Nichols)
 1. Tony Allen
 1. The Weather Station
