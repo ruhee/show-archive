@@ -18,6 +18,7 @@ The pandemic and all.
 1. Ivan Rosenberg & Kristin Cavoukian
 1. Jane Gowan
 1. Jessy Bell Smith
+1. Joel Plaskett
 1. John Showman
 1. Julien Baker
 1. Kristine Schmitt
