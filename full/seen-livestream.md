@@ -17,6 +17,7 @@ The pandemic and all.
 1. Guante
 1. Ivan Rosenberg & Kristin Cavoukian
 1. Jane Gowan
+1. Jay Ferguson
 1. Jessy Bell Smith
 1. Joel Plaskett
 1. John Showman
