@@ -21,6 +21,7 @@ The pandemic and all.
 1. Jessy Bell Smith
 1. Joel Plaskett
 1. John Showman
+1. Julian Taylor Band
 1. Julien Baker
 1. Kristine Schmitt
 1. Laura Repo
@@ -35,7 +36,7 @@ The pandemic and all.
 1. Raha Javanfar & Fraser Melvin
 1. Ron Hawkins x30
 1. Sarah Harmer
-1. Skye Wallace x2
+1. Skye Wallace x3 (2x solo, 1x band)
 1. Stephen Stanley x15 (1 w/ Ron Hawkins, 1 w/ Alun Piggins, 1 w/ Lawrence Nichols)
 1. Tony Allen
 1. The Weather Station
