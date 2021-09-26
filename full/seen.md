@@ -6,7 +6,7 @@
 1. 45th Ave Jazz Band
 1. Abdominal & the Obliques
 1. Abigail Washburn & the Sparrow Quartet
-1. Absolutely Free
+1. Absolutely Free x2
 1. Ace of Wands x2
 1. The Acorn x3
 1. Action Makes
@@ -244,6 +244,7 @@
 1. Dinosaur Island
 1. Divide & Dissolve
 1. Django Django x2
+1. DJ LordAUK
 1. DMBQ x2
 1. Dog Day
 1. Don McLean
@@ -320,7 +321,7 @@
 1. Friendly Rich & The Lollipop People
 1. Frigg
 1. Frontiers
-1. Fucked Up x6
+1. Fucked Up x7
 1. Fusion Comedy
 1. Gal Costa
 1. Gay
@@ -644,6 +645,7 @@
 1. Numbers & Figures
 1. The Nymphets
 1. Nyssa
+1. Obuxum
 1. Ohbijou x3
 1. Oh Susanna x2
 1. Okkervil River
@@ -956,5 +958,6 @@
 1. Young Rival
 1. Zeus x4
 1. Ziibiwan ᓯᐱᐘᐣ x2
+1. Zones
 1. Zoobombs
 1. Zorton and the Cannibals
