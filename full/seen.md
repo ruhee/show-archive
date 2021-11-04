@@ -411,6 +411,7 @@
 1. Jack Semple
 1. Jackie Pirico
 1. Jackson Browne
+1. Jake Clemons
 1. Jake Levack
 1. James Blonde
 1. James Blood Ulmer
@@ -827,7 +828,7 @@
 1. Steely Dan x2
 1. Stef McCarrol
 1. Stella Ella Ola
-1. Stephen Stanley x7 / Stephen Stanley Band x5
+1. Stephen Stanley x7 / Stephen Stanley Band x6
 1. Steve Reich
 1. Steven McKay x2
 1. Steven Page x4
