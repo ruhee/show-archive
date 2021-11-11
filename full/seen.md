@@ -242,6 +242,7 @@
 1. Dinner Belles
 1. Dino Martinis x2
 1. Dinosaur Island
+1. Disq
 1. Divide & Dissolve
 1. Django Django x2
 1. DJ LordAUK
@@ -871,7 +872,7 @@
 1. Tim Gilbert
 1. Timber Timbre x2
 1. Tin Bangs
-1. Titus Andronicus x2
+1. Titus Andronicus x3
 1. TOFU x2
 1. Tom Cochrane & Red Rider
 1. Tom Hearn
