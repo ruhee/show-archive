@@ -100,6 +100,7 @@
 1. Bodega
 1. Bon Iver
 1. Bonjay
+1. Bonnie Trash
 1. Bookchop x3
 1. Born Ruffians x2
 1. Boyfriend Material
@@ -706,6 +707,7 @@
 1. Poppy Seeds
 1. Possum
 1. Pottery
+1. Praises
 1. Proof of Ghosts
 1. PS I Love You
 1. PUP x2
@@ -793,6 +795,7 @@
 1. Shilpa Ray
 1. Shitt Hottt
 1. Shooglenifty
+1. Short Bloom
 1. ShoShona Kish
 1. Sightings
 1. Sigur Rós
@@ -902,6 +905,7 @@
 1. Two Koreas
 1. TWRP
 1. Tyler Hornby Quartet
+1. Tyler Yarema
 1. Tyriqueordie
 1. Ultra Magnus
 1. Umalali

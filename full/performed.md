@@ -29,6 +29,7 @@
 1. Meligrove Band (as guest)
 1. The Natural Shocks (as guest) x3
 1. Nich Worby
+1. Praises (as guest)
 1. Robin Hatch
 1. Ron Hawkins & The Do Good Assassins x5 (as guest)
 1. Ruhee Dewji (solo) x2
