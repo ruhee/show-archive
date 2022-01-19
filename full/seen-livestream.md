@@ -34,7 +34,7 @@ The pandemic and all.
 1. Nichol Robertson & The Robertson'sons
 1. Praises
 1. Raha Javanfar & Fraser Melvin
-1. Ron Hawkins x30
+1. Ron Hawkins x31
 1. Sarah Harmer
 1. Skye Wallace x3 (2x solo, 1x band)
 1. Stephen Stanley x15 (1 w/ Ron Hawkins, 1 w/ Alun Piggins, 1 w/ Lawrence Nichols)
