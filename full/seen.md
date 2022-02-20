@@ -253,7 +253,7 @@
 1. The Do Nothings
 1. Don Palmer
 1. Donny McCaslin
-1. Dorothea Paas x2
+1. Dorothea Paas x3
 1. Doug Paisley
 1. Down With Webster
 1. Downchild Blues Band (ft. Colin James, Colin Linden, James Cotton, Dan Aykroyd)
@@ -276,6 +276,7 @@
 1. Eddie Izzard
 1. Edie Brickell & the New Bohemians
 1. The Effens
+1. Ejji Smith
 1. The Elected
 1. Eleni Mandell
 1. Elf Power
@@ -558,6 +559,7 @@
 1. The Manilennials
 1. Mantler
 1. Maria Ryan & Chris Bennett
+1. Marker Starling
 1. Mark Holmes
 1. Mark Stanfield
 1. Mark Watson
