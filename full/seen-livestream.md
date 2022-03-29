@@ -2,12 +2,14 @@ The pandemic and all.
 
 1. Ace of Wands
 1. Alain Richer
+1. Arnie Naiman
 1. Beams
 1. Bird City
-1. Chris Coole
+1. Brian Taheny
+1. Chris Coole x2
 1. Chris Coole & Julie Lawson
 1. Chris Murphy x2
-1. Chris Quinn
+1. Chris Quinn x2
 1. Connie Nowe & Rachel Melas
 1. Dan Taylor
 1. David Corley
@@ -23,6 +25,7 @@ The pandemic and all.
 1. John Showman
 1. Julian Taylor Band
 1. Julien Baker
+1. Kathy Reid-Naiman
 1. Kristine Schmitt
 1. Laura Repo
 1. Lowest of the Low
