@@ -33,7 +33,7 @@ The pandemic and all.
 1. Matty Powell
 1. Mimi O'Bonsawin x2
 1. Moscow Apartment
-1. The Mountain Goats
+1. The Mountain Goats x2
 1. Nichol Robertson & The Robertson'sons
 1. Praises
 1. Raha Javanfar & Fraser Melvin
