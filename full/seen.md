@@ -773,7 +773,7 @@
 1. Sam Roberts [Band] x3
 1. Sambacana
 1. Sandra Zelazny
-1. Sarah Harmer x2
+1. Sarah Harmer x3
 1. Sarah McLachlan x2
 1. Sarah Silverman
 1. Sarah Slean x2
