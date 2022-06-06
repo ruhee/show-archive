@@ -110,6 +110,7 @@
 1. Bram Gielen
 1. Brandi Carlile
 1. Brave Little Toaster
+1. Breeze
 1. Brenda
 1. Brent Jackson x2
 1. Brent Randall & His Pinecones x5
@@ -584,7 +585,7 @@
 1. The Men They Couldn't Hang
 1. The Mercenaries
 1. Metric x2
-1. METZ x2
+1. METZ x3
 1. Michael Feuerstack
 1. Michael Marcuzzi Ensemble
 1. Michael Morse
@@ -808,7 +809,7 @@
 1. Skeleton (Me)
 1. The Skeletones Four
 1. Skye Wallace x4 (2x solo)
-1. Sloan x27
+1. Sloan x28
 1. Slippers x3
 1. Slutcode
 1. Small Sins x3 (1x as The Ladies & Gentlemen)
