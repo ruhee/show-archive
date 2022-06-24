@@ -922,6 +922,7 @@
 1. Vasen
 1. Walter/Halvorson/Evans trio
 1. Warmer
+1. Waxahatchee
 1. Wayne Petti
 1. We Are Scientists
 1. We Take Lovers
