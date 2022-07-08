@@ -325,7 +325,7 @@
 1. Friendly Rich & The Lollipop People
 1. Frigg
 1. Frontiers
-1. Fucked Up x7
+1. Fucked Up x8
 1. Fusion Comedy
 1. Gal Costa
 1. Gay
