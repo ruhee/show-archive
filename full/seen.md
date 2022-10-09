@@ -118,6 +118,7 @@
 1. Brian Wilson
 1. Brodie Dakin
 1. Broken Social Scene
+1. Brown Hawkins Stanley
 1. Bruce Peninsula x9
 1. Bry Webb x2
 1. Buddy Guy
@@ -483,7 +484,7 @@
 1. Kat Burns
 1. Kat Danser
 1. Kat Nap
-1. Kate Fenner
+1. Kate Fenner x2
 1. Kawa Brass Band
 1. Kee Avil
 1. Kellylee Evans
