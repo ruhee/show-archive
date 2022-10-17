@@ -879,7 +879,7 @@
 1. Tim Gilbert
 1. Timber Timbre x2
 1. Tin Bangs
-1. Titus Andronicus x3
+1. Titus Andronicus x4
 1. TOFU x2
 1. Tom Cochrane & Red Rider
 1. Tom Hearn
