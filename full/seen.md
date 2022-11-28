@@ -414,6 +414,7 @@
 1. Issa (Jane Siberry)
 1. Ivy Mairi & Isla Craig
 1. Jack Semple
+1. Jackie
 1. Jackie Pirico
 1. Jackson Browne
 1. Jake Clemons
@@ -809,7 +810,7 @@
 1. Skavenjah
 1. Skeleton (Me)
 1. The Skeletones Four
-1. Skye Wallace x4 (2x solo)
+1. Skye Wallace x5 (2x solo)
 1. Sloan x28
 1. Slippers x3
 1. Slutcode
