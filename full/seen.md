@@ -164,6 +164,7 @@
 1. Cheap Speakers x2
 1. Chick Corea Trio
 1. Chirgilchin
+1. Chris Locke
 1. Chris Sandiford
 1. Chris Smither
 1. Christine Fellows x2
@@ -199,6 +200,7 @@
 1. Cousins
 1. Cowboy Celtic
 1. Cowboy Junkies
+1. Craig Fay
 1. Craig Finn & the Uptown Controllers
 1. Craig Robertson
 1. Creaking Tree String Quartet
@@ -469,7 +471,7 @@
 1. Jon-Rae Fletcher
 1. Jon-Rae and the River x3
 1. Joseph Shabason
-1. Josh Gondelman
+1. Josh Gondelman x2
 1. Josh Ritter
 1. Julie Doiron x3
 1. Julien Baker
@@ -727,6 +729,7 @@
 1. Rapport
 1. Ray LaMontagne
 1. Ray Price
+1. Rebecca Reeds
 1. Reflectiostack
 1. Reggie Watts
 1. The Rest
