@@ -158,6 +158,7 @@
 1. Cayetana x2
 1. Caylie Staples & Felicity Williams
 1. CCMC
+1. Cedarstrip Rocketship
 1. Chad VanGaalen x3
 1. Chandra
 1. Char Aragoza
@@ -723,6 +724,7 @@
 1. Queenz Quaytar
 1. Quinn Christopherson
 1. Quite Nice
+1. Rachael Cardiello
 1. Radius & Helena
 1. Rajiv Thavanathan
 1. Random Access
