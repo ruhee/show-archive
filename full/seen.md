@@ -237,6 +237,7 @@
 1. Definition of Knowledge
 1. Deliluh
 1. DeMayo
+1. DENT
 1. The Denumonts
 1. Diana
 1. Diana Jones
@@ -244,6 +245,7 @@
 1. Dick Gaughan
 1. Dick Mime
 1. Dickie Haydon
+1. Dilettante
 1. Dilly Dally
 1. Dinner Belles
 1. Dino Martinis x2
@@ -304,6 +306,7 @@
 1. Evelyn Glennie
 1. Eyeballs
 1. Faith Healer
+1. Faiyaz and the Wasted Chances
 1. Feist x2
 1. Feuermusik
 1. Field Music
@@ -864,6 +867,7 @@
 1. The Swyves
 1. Sydanie
 1. Tacoma Hellfarm Tragedy
+1. Tara Kannangara
 1. Tarhana
 1. Tasseomancy
 1. Taylor Knox
