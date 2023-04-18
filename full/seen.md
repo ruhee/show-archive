@@ -12,6 +12,7 @@
 1. Action Makes
 1. Ada Lee
 1. Adam Jesin
+1. Adeem the Artist
 1. Adrienne Young & Little Sadie
 1. Agnostic Mountain Gospel Choir
 1. A Hawk & A Hacksaw
@@ -616,7 +617,7 @@
 1. Mother Tongues x2
 1. Motorists
 1. Moul D
-1. The Mountain Goats x3
+1. The Mountain Goats x4
 1. The Mountains and the Trees
 1. Mozart's Sister
 1. Murley/Braid Quartet
