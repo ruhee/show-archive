@@ -210,6 +210,7 @@
 1. Crhymes x2
 1. Cuff the Duke x2
 1. The Cult
+1. cumgirl8
 1. The Cybertronic Spree x2
 1. Dan Bern
 1. Dan Edmonds
@@ -240,6 +241,7 @@
 1. DeMayo
 1. DENT
 1. The Denumonts
+1. De Pamela
 1. Diana
 1. Diana Jones
 1. Diana Krall x2
@@ -528,6 +530,7 @@
 1. Leroy "The Grandmaster" Young
 1. Les Heures
 1. Lester Howe
+1. Le Tigre
 1. Levon Helm x2
 1. Liam Finn
 1. Lianne La Havas
@@ -711,6 +714,7 @@
 1. Pink Martini
 1. Pink Palace x2
 1. Pixies
+1. Pizza Bush
 1. PJ Perry
 1. Planchette
 1. Pocket Dwellers
