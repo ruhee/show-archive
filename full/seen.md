@@ -388,6 +388,7 @@
 1. Herbie Hancock
 1. Hey Rosetta!
 1. The Highest Order x3
+1. Hiroki Tanaka
 1. The Hit Pickers
 1. Hoa Hoas
 1. Hobson's Choice
@@ -734,6 +735,7 @@
 1. Quite Nice
 1. Rachael Cardiello
 1. Radius & Helena
+1. Rae Spoon
 1. Rajiv Thavanathan
 1. Random Access
 1. Rapport
