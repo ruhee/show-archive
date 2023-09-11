@@ -256,6 +256,7 @@
 1. Disq
 1. Divide & Dissolve
 1. Django Django x2
+1. DJ Dance
 1. DJ LordAUK
 1. DMBQ x2
 1. Dog Day
@@ -878,6 +879,7 @@
 1. Tarhana
 1. Tasseomancy
 1. Taylor Knox
+1. Tdot Batu
 1. TEAL
 1. Teddy Thompson
 1. Teenanger
@@ -911,6 +913,7 @@
 1. Township Expansion x2
 1. The Tragically Hip x3
 1. The Tragically Hits
+1. Trainwreck
 1. Trampled By Turtles x2
 1. Trap Tiger
 1. Treasa Levasseur
