@@ -293,6 +293,7 @@
 1. Elf Power
 1. Elizabeth Shepherd
 1. Elliott Brood x2
+1. Ellis
 1. Ellis Marsalis Quartet
 1. Elrichman
 1. The Elwins
@@ -740,6 +741,7 @@
 1. Rajiv Thavanathan
 1. Random Access
 1. Rapport
+1. Ratboys
 1. Ray LaMontagne
 1. Ray Price
 1. Rebecca Reeds
