@@ -130,6 +130,7 @@
 1. Burton Cummings
 1. Butch Haller & His Chesterfield Ramblers
 1. Butterfly Boucher x2
+1. By Divine Right
 1. Cadence x3
 1. Caitlin Carey
 1. Calexico
