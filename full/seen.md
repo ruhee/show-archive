@@ -856,7 +856,7 @@
 1. Steely Dan x2
 1. Stef McCarrol
 1. Stella Ella Ola
-1. Stephen Stanley x7 / Stephen Stanley Band x6
+1. Stephen Stanley x7 / Stephen Stanley Band x7
 1. Steve Reich
 1. Steven McKay x2
 1. Steven Page x4
