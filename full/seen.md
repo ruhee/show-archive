@@ -951,7 +951,7 @@
 1. We Are Scientists
 1. We Take Lovers
 1. The Weakerthans
-1. The Weather Station x9
+1. The Weather Station x10
 1. Weaves
 1. The Wellington Wellingtons
 1. Weird Al Yankovic
