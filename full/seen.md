@@ -180,7 +180,7 @@
 1. Classic Albums Live [The Last Waltz]
 1. The Clientele
 1. Clothes Make the Man
-1. Cloud Nothings x3
+1. Cloud Nothings x4
 1. Coeur de Pirate x2
 1. Cold Specks
 1. Colin James
@@ -599,6 +599,7 @@
 1. Melissa McClelland
 1. Melody McKiver
 1. The Men They Couldn't Hang
+1. The Menzingers
 1. The Mercenaries
 1. Metric x2
 1. METZ x3
@@ -607,6 +608,7 @@
 1. Michael Morse
 1. Michelle Grégoire Quintet
 1. Mick Thomas & Squeezebox Wally
+1. Microwave
 1. Mike Murley
 1. Mike Murley Duo
 1. Mike Murley Septet x2
@@ -770,6 +772,7 @@
 1. Rock the Shtetl
 1. Rocket Surgery
 1. Rocky Roberts
+1. Rodeo Boys
 1. Rodrigo Fernandez-Stoll
 1. Roman Pilates
 1. Ron Hawkins x9 (1x w/Steve Singh, 1x w/Christopher Plock)
