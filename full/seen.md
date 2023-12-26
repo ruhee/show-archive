@@ -812,7 +812,7 @@
 1. Seong-Jin Cho
 1. The Shacks
 1. Shakura S'Aida
-1. Shannon Roszell
+1. Shannon Roszell x2
 1. Share
 1. Sharjil Rasool
 1. Sharon Isbin
@@ -905,6 +905,7 @@
 1. Timber Timbre x2
 1. Tin Bangs
 1. Titus Andronicus x4
+1. Todd Aalgaard
 1. TOFU x2
 1. Tom Cochrane & Red Rider
 1. Tom Hearn

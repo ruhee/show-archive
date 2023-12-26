@@ -11,7 +11,7 @@
 1. Bry Webb x3
 1. The CBC Darlings
 1. Calgary Youth Jazz Orchestra x??
-1. Cedarstrip Rocketship x4
+1. Cedarstrip Rocketship x5
 1. The Cheap Speakers x7
 1. Chrome & the Ice Queen x3
 1. Clarinet Panic x6
@@ -41,6 +41,7 @@
 1. Soup Can Theatre's _Love is a Poverty You Can Sell_ x21
 1. Soup Can Theatre's _LIAPYCS 2: Kisses for a Pfennig_ x11
 1. Stephen Stanley x2 (as guest)
+1. Todd Aalgaard (as guest)
 1. Traplines
 1. Weak Hands x9
 1. The Weather Station (unknown ... tour guest mostly)
