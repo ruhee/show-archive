@@ -308,6 +308,7 @@
 1. Eons x3
 1. E-Saggila
 1. Escort
+1. Esther Rose
 1. Evan Gordon & His Sad Clowns
 1. Evelyn Glennie
 1. Eyeballs
@@ -453,6 +454,7 @@
 1. Jeremy Smith
 1. Jerry Douglas Band
 1. Jerry Seinfeld x3
+1. Jess Williamson
 1. Jesse Cook
 1. Jetplanes of Abraham x2
 1. Jetset Motel
