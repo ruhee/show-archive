@@ -68,7 +68,7 @@
 1. Basia Bulat
 1. Battlefield Band
 1. The Beachmen
-1. Beams x5
+1. Beams x6
 1. Beast Cancer
 1. Becca Howes
 1. Beddy Bionic
@@ -490,6 +490,7 @@
 1. Julien Baker
 1. The Jumpsuits
 1. The Just Barelys
+1. Just Prince
 1. Justin Adams & Juldeh Camara
 1. Justin Bacchus
 1. Justin Rutledge x4
