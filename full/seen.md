@@ -376,6 +376,7 @@
 1. Group Hug
 1. Haley & Josh
 1. Hamilton Trading Co.
+1. The Hand Me Downs
 1. Handsome Family
 1. Hank ft. the Hank Collective
 1. Harmony Trowbridge
@@ -411,6 +412,7 @@
 1. Hugh Fraser Orchestra (Banff Centre)
 1. The Hummers
 1. Huron
+1. Hurray for the Riff Raff
 1. Hush Pup
 1. Hyena Dog Robbery
 1. Ian Daniel Kehoe x2
@@ -657,6 +659,7 @@
 1. Nils Edenloff
 1. Ninja High School
 1. Niyaz
+1. NNAMDÏ
 1. Noah Gundersen
 1. Noel Gallagher's High Flying Birds
 1. No Frills
