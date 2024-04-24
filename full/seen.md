@@ -361,6 +361,7 @@
 1. Good Enough Live Karaoke x5
 1. The Good Family
 1. The Good Lovelies x2
+1. Good Morning
 1. Goon Squad
 1. Goosebump x2 (1x as Germaphobes)
 1. Gordon Lightfoot x2
@@ -958,7 +959,7 @@
 1. Vasen
 1. Walter/Halvorson/Evans trio
 1. Warmer
-1. Waxahatchee
+1. Waxahatchee x2
 1. Wayne Petti
 1. We Are Scientists
 1. We Take Lovers
