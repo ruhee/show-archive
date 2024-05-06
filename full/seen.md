@@ -180,7 +180,7 @@
 1. Classic Albums Live [The Last Waltz]
 1. The Clientele
 1. Clothes Make the Man
-1. Cloud Nothings x4
+1. Cloud Nothings x5
 1. Coeur de Pirate x2
 1. Cold Specks
 1. Colin James
@@ -414,6 +414,7 @@
 1. The Hummers
 1. Huron
 1. Hurray for the Riff Raff
+1. Hurry
 1. Hush Pup
 1. Hyena Dog Robbery
 1. Ian Daniel Kehoe x2
