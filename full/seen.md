@@ -68,7 +68,7 @@
 1. Basia Bulat
 1. Battlefield Band
 1. The Beachmen
-1. Beams x6
+1. Beams x7
 1. Beast Cancer
 1. Becca Howes
 1. Beddy Bionic
@@ -714,6 +714,7 @@
 1. Paul Ubana Jones
 1. Paul Weadick
 1. The Payola\$
+1. Pelican Movement
 1. The People of Canada
 1. Persons
 1. The Persuasions
