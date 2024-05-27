@@ -441,7 +441,7 @@
 1. James Blonde
 1. James Blood Ulmer
 1. James Hunter
-1. James Irwin
+1. James Irwin x2
 1. Jane's Party
 1. Jann Arden
 1. Japandroids x3
@@ -551,7 +551,7 @@
 1. Lily Frost
 1. Lindsay Ell
 1. Lisa Bozikovic x2
-1. Lisa Conway/L-CON x6
+1. Lisa Conway/L CON x7
 1. Lisa Lampanelli
 1. Lisa O'Neill
 1. The Litch
