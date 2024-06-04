@@ -41,7 +41,7 @@
 1. Andyland
 1. Anna Mērnieks
 1. Anthony Bourdain
-1. The Antlers
+1. The Antlers x2
 1. Amy Bishop
 1. Amy Sky
 1. Apostle of Hustle
@@ -682,7 +682,7 @@
 1. Obuxum
 1. Ohbijou x3
 1. Oh Susanna x2
-1. Okkervil River
+1. Okkervil River x2
 1. Oldies 990
 1. Old Kid
 1. Old Man Luedecke
