@@ -152,6 +152,7 @@
 1. Carole Pope
 1. Carolina Chocolate Drops
 1. Carolyn Mark x2
+1. Carson McHone
 1. Casey Mecija x2
 1. Casey MQ
 1. Casper Skulls
@@ -491,7 +492,7 @@
 1. Joseph Shabason
 1. Josh Gondelman x2
 1. Josh Ritter
-1. Julie Doiron x3
+1. Julie Doiron x4
 1. Julien Baker
 1. The Jumpsuits
 1. The Just Barelys
@@ -839,6 +840,7 @@
 1. Sigur Rós
 1. Simeon Abbott
 1. Sinistrio
+1. Siobhan Bodrug
 1. Sitcom
 1. Skavenjah
 1. Skeleton (Me)
