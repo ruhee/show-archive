@@ -579,6 +579,7 @@
 1. Lyle Lovett & His Large Band
 1. Maceo Parker
 1. The Magnificent Sevens
+1. Major Flavour
 1. Major Grange x2
 1. Makita Hack & The Log Rollers
 1. Mandibles
@@ -743,6 +744,7 @@
 1. Pottery
 1. Praises
 1. Proof of Ghosts
+1. Protomartyr
 1. PS I Love You
 1. PUP x2
 1. QR5
@@ -802,6 +804,7 @@
 1. Rush
 1. Ruthie Foster
 1. The Sadies
+1. Sadstab
 1. Saffron Sect x2
 1. Sam Amidon x2
 1. Sam Baker
