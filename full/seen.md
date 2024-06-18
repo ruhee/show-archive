@@ -310,6 +310,7 @@
 1. E-Saggila
 1. Escort
 1. Esther Rose
+1. Eucalyptus
 1. Evan Gordon & His Sad Clowns
 1. Evelyn Glennie
 1. Eyeballs
@@ -959,6 +960,7 @@
 1. Ünicat
 1. The Unseen Strangers
 1. Unwigged & Unplugged: Guest, McKean, Shearer
+1. U.S. Girls
 1. Valentine Ho
 1. Val Heimpel
 1. Vancouver TheatreSports League x2
