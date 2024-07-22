@@ -57,7 +57,7 @@
 1. B-17
 1. Baby Eagle
 1. The Bad Plus
-1. B.A. Johnston
+1. B.A. Johnston x2
 1. Bald Britney
 1. Bankruptcy
 1. Barenaked Ladies x3
