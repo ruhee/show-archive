@@ -905,7 +905,7 @@
 1. Tarhana
 1. Tasseomancy
 1. Taylor Knox
-1. Tdot Batu
+1. Tdot Batu x2
 1. TEAL
 1. Teddy Thompson
 1. Teenanger
