@@ -345,6 +345,7 @@
 1. Fusion Comedy
 1. Gal Costa
 1. Gay
+1. Gem Hall
 1. Gentleman Reg
 1. Germans x2
 1. Gerry Hebert Quartet x2
@@ -424,6 +425,7 @@
 1. Idiots of Ants
 1. illScarlett
 1. Imaginary Cities
+1. Imogen Reid
 1. Inga Babinga
 1. The Invisible Hands
 1. Iron & Wine
@@ -508,6 +510,7 @@
 1. Kat Burns
 1. Kat Danser
 1. Kat Nap
+1. Kat Rogue
 1. Kate Fenner x2
 1. Kawa Brass Band
 1. Kee Avil
@@ -755,7 +758,7 @@
 1. Quite Nice
 1. Rachael Cardiello
 1. Radius & Helena
-1. Rae Spoon
+1. Rae Spoon x2
 1. Rajiv Thavanathan
 1. Random Access
 1. Rapport
@@ -912,6 +915,7 @@
 1. Tess Roby
 1. Thee Silver Mount Zion
 1. Their Majesties
+1. Theodore Walker Robinson
 1. These United States
 1. Theory of a Deadman (sort of)
 1. Thickhawk
@@ -953,6 +957,7 @@
 1. Two Koreas
 1. TWRP
 1. Tyler Hornby Quartet
+1. Tyler Reid
 1. Tyler Yarema
 1. Tyriqueordie
 1. Ultra Magnus
