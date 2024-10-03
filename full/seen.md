@@ -496,7 +496,7 @@
 1. Josh Gondelman x2
 1. Josh Ritter
 1. Julie Doiron x4
-1. Julien Baker
+1. Julien Baker x2
 1. The Jumpsuits
 1. The Just Barelys
 1. Just Prince
@@ -512,6 +512,7 @@
 1. Kat Nap
 1. Kat Rogue
 1. Kate Fenner x2
+1. Katie Malco
 1. Kawa Brass Band
 1. Kee Avil
 1. Kellylee Evans
@@ -533,6 +534,7 @@
 1. Ladysmith Black Mambazo x2
 1. Lake Vernon Drowning
 1. La Luna
+1. Land of Talk
 1. Lang Lang
 1. Lara Taubman
 1. Last Kill
