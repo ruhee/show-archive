@@ -582,6 +582,7 @@
 1. Luluc
 1. Luyos MC
 1. LVL UP
+1. Lydia Persaud
 1. Lyle Lovett & His Large Band
 1. Maceo Parker
 1. The Magnificent Sevens
@@ -876,7 +877,7 @@
 1. Sportsfan x2
 1. Squeeze
 1. Stardust
-1. Stars
+1. Stars x2
 1. Steamboat
 1. Steely Dan x2
 1. Stef McCarrol
