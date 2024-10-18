@@ -89,6 +89,7 @@
 1. Bill Maher x2
 1. The Billie Hollies
 1. Billy Bob Thornton & The Boxmasters
+1. Billy Bragg
 1. Billy Connolly
 1. Birds of Bellwoods
 1. The Black Pearls
@@ -885,7 +886,7 @@
 1. Stephen Stanley x7 / Stephen Stanley Band x7
 1. Steve Reich
 1. Steven McKay x2
-1. Steven Page x4
+1. Steven Page x5
 1. Stevie Jackson
 1. St Michael's Choir School x5
 1. Stomp! (New York)
