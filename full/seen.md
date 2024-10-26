@@ -156,7 +156,7 @@
 1. Carson McHone
 1. Casey Mecija x2
 1. Casey MQ
-1. Casper Skulls
+1. Casper Skulls x2
 1. Castlemusic
 1. catl x2
 1. Cayetana x2
@@ -786,6 +786,7 @@
 1. Rick Maguire
 1. Ridley Bent
 1. Rita Chiarelli
+1. Roach
 1. Robert Dayton
 1. Robin Banks
 1. Robin Hatch x2
@@ -879,6 +880,7 @@
 1. Squeeze
 1. Stardust
 1. Stars x2
+1. Status/Non-Status
 1. Steamboat
 1. Steely Dan x2
 1. Stef McCarrol
