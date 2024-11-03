@@ -15,6 +15,7 @@
 1. Adeem the Artist
 1. Adrienne Young & Little Sadie
 1. Agnostic Mountain Gospel Choir
+1. Ahamed Weinberg
 1. A Hawk & A Hacksaw
 1. Aimee Mann x2
 1. Aisha Brown
@@ -44,6 +45,7 @@
 1. The Antlers x2
 1. Amy Bishop
 1. Amy Sky
+1. Aparna Nancherla
 1. Apostle of Hustle
 1. Ari Lennox
 1. Arj Barker
