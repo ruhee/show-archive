@@ -278,7 +278,7 @@
 1. The Dress Whites x2
 1. Drew Smith / Dr. Ew x4
 1. Dry Branch Fire Squad
-1. Ducks Unlimited x2
+1. Ducks Ltd. x3 (2x as Ducks Unlimited)
 1. The Duhks
 1. Duotang
 1. Dupony
@@ -768,7 +768,7 @@
 1. Rajiv Thavanathan
 1. Random Access
 1. Rapport
-1. Ratboys
+1. Ratboys x2
 1. Ray LaMontagne
 1. Ray Price
 1. Rebecca Reeds x2
