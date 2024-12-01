@@ -213,7 +213,7 @@
 1. Creaking Tree String Quartet
 1. Creeping Nobodies
 1. Crhymes x2
-1. Cuff the Duke x2
+1. Cuff the Duke x3
 1. The Cult
 1. cumgirl8
 1. The Cybertronic Spree x2
@@ -809,6 +809,7 @@
 1. Ross Noble
 1. The Routes
 1. Roxanne Potvin
+1. Royal Castles
 1. Rueben DeGroot x2
 1. Rufus Wainwright
 1. The Rural Alberta Advantage x6
