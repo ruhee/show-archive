@@ -575,7 +575,7 @@
 1. Los Munequitos de Matanzas
 1. Lost Cousins x2
 1. Louis CK
-1. Lowest of the Low x7
+1. Lowest of the Low x8
 1. Lowlands
 1. Lubo Alexandrov & Kaba Horo
 1. Lucinda Williams
