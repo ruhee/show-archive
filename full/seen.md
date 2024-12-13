@@ -376,7 +376,7 @@
 1. Grassmarket
 1. Gravity Wave x4
 1. Great Big Sea x4
-1. Great Lake Swimmers x2
+1. Great Lake Swimmers x3
 1. Green Go
 1. Grey Lands
 1. Grounders
@@ -1030,4 +1030,5 @@
 1. Ziibiwan ᓯᐱᐘᐣ x2
 1. Zones
 1. Zoobombs
+1. Zoon
 1. Zorton and the Cannibals
