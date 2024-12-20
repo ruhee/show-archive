@@ -4,6 +4,7 @@
 1. 2AM Club
 1. 36?
 1. 45th Ave Jazz Band
+1. 9Million
 1. Abdominal & the Obliques
 1. Abigail Washburn & the Sparrow Quartet
 1. Absolutely Free x2
@@ -344,7 +345,7 @@
 1. Friendly Rich & The Lollipop People
 1. Frigg
 1. Frontiers
-1. Fucked Up x8
+1. Fucked Up x9
 1. Fusion Comedy
 1. Gal Costa
 1. Gay
