@@ -317,6 +317,7 @@
 1. Eucalyptus
 1. Evan Gordon & His Sad Clowns
 1. Evelyn Glennie
+1. Exultate Chamber Singers
 1. Eyeballs
 1. Faith Healer
 1. Faiyaz and the Wasted Chances
