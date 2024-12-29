@@ -115,7 +115,7 @@
 1. Bram Gielen
 1. Brandi Carlile
 1. Brave Little Toaster
-1. Breeze
+1. Breeze x2
 1. Brenda
 1. Brent Jackson x2
 1. Brent Randall & His Pinecones x5
@@ -136,6 +136,7 @@
 1. Butterfly Boucher x2
 1. By Divine Right
 1. Cadence x3
+1. Cadence Weapon
 1. Caitlin Carey
 1. Calexico
 1. Calgary Choral
