@@ -57,6 +57,7 @@
 1. The Assistants
 1. Aunty Social
 1. Aurora Brown
+1. Ayal Senior
 1. B-17
 1. Baby Eagle
 1. The Bad Plus
@@ -615,6 +616,7 @@
 1. Max Silvestri
 1. Maybe Not x4
 1. Mayor McCA
+1. Mdou Moctar
 1. Megafaun
 1. Megan Hamilton & the Volunteer Canola x2
 1. Meghan Harrison x2
