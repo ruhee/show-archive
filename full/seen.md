@@ -924,6 +924,7 @@
 1. Tdot Batu x2
 1. TEAL
 1. Teddy Thompson
+1. Ted Leo & the Pharmacists
 1. Teenanger
 1. Tegan & Sara
 1. Ten Second Epic
