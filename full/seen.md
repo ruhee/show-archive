@@ -104,6 +104,7 @@
 1. Bobby McFerrin
 1. Bob Wiseman
 1. Bodega
+1. Bodywash
 1. Bon Iver
 1. Bonjay
 1. Bonnie Trash
@@ -326,7 +327,6 @@
 1. Feist x2
 1. Feuermusik
 1. Field Music
-1. Final Fantasy x3
 1. First Aid Kit (Halifax - now Writer's Strike)
 1. FLAMES!
 1. The Flaming Decisions
@@ -453,6 +453,7 @@
 1. James Blood Ulmer
 1. James Hunter
 1. James Irwin x2
+1. Jane Inc.
 1. Jane's Party
 1. Jann Arden
 1. Japandroids x3
@@ -655,6 +656,7 @@
 1. The Mountain Goats x4
 1. The Mountains and the Trees
 1. Mozart's Sister
+1. Mui Zyu
 1. Murley/Braid Quartet
 1. Murray Drive
 1. Mushfiq Ensemble
@@ -715,6 +717,7 @@
 1. Our Lady Peace x2
 1. The Out of Towners x2
 1. Owen Beverly
+1. Owen Pallett x4 (3x as Final Fantasy)
 1. The Owle Bird
 1. Pablo & Mattchezz x2
 1. Pagliaro
