@@ -972,6 +972,7 @@
 1. T. Thomason
 1. tUnE-yArDs
 1. TUNS x3
+1. TV Erased
 1. Twin Peaks
 1. Two Hours Traffic x3
 1. Two Koreas
@@ -1018,7 +1019,7 @@
 1. Winona LaDuke
 1. Wintersleep
 1. Witch Prophet x3
-1. Wolf Parade x3
+1. Wolf Parade x4
 1. Woodchoppers Association
 1. The Wooden Sky x2 (1x as Friday Morning's Regret)
 1. Woodhands x4
