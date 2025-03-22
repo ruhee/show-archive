@@ -530,6 +530,7 @@
 1. Kevin Black
 1. The Killers
 1. King Cuddy
+1. Kingdom of Birds
 1. Kirk MacDonald
 1. Kitten Stevens
 1. KlezMerovitz
@@ -547,6 +548,7 @@
 1. Lara Taubman
 1. Last Kill
 1. La Strada
+1. Last Waltzon
 1. Laura Barrett x6
 1. Leahy x2
 1. Lebarons
@@ -910,6 +912,7 @@
 1. Sugar Sammy
 1. Summer & Youth
 1. The Superfantastics
+1. Superstar Crush
 1. The Sure Things
 1. Suzanne Jarvie
 1. Suzie McNeil

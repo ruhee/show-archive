@@ -41,6 +41,7 @@
 1. Soup Can Theatre's _Love is a Poverty You Can Sell_ x21
 1. Soup Can Theatre's _LIAPYCS 2: Kisses for a Pfennig_ x11
 1. Stephen Stanley x2 (as guest)
+1. Survival Club
 1. Todd Aalgaard (as guest)
 1. Traplines
 1. Weak Hands x9
