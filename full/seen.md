@@ -180,6 +180,7 @@
 1. Chris Smither
 1. Christine Fellows x2
 1. Chrys & Momo
+1. Chuck Coles
 1. Chuck Negron
 1. Chumbawamba (acoustic)
 1. City and Colour x2
@@ -205,7 +206,7 @@
 1. Constantines x2
 1. The Cool Hands
 1. Corin Raymond
-1. Cory Branan
+1. Cory Branan x2
 1. Courtney Gilmour
 1. The Courtneys
 1. Cousins
