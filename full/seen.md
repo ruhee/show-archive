@@ -179,6 +179,7 @@
 1. Chris Sandiford
 1. Chris Smither
 1. Christine Fellows x2
+1. Christo Graham
 1. Chrys & Momo
 1. Chuck Coles
 1. Chuck Negron
@@ -306,7 +307,7 @@
 1. Ellis
 1. Ellis Marsalis Quartet
 1. Elrichman
-1. The Elwins
+1. The Elwins x2
 1. Emily Wells
 1. Emma-Lee
 1. Emma Pollock
@@ -995,6 +996,7 @@
 1. Valentine Ho
 1. Val Heimpel
 1. Vancouver TheatreSports League x2
+1. Vanity Mirror
 1. Van Morrison x2
 1. Vasen
 1. Walter/Halvorson/Evans trio
