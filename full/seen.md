@@ -96,6 +96,7 @@
 1. Billy Bragg
 1. Billy Connolly
 1. Birds of Bellwoods
+1. Bita Joudaki
 1. The Black Pearls
 1. Blair Packham
 1. Blood, Sweat & Tears
@@ -306,7 +307,7 @@
 1. Elliott Brood x2
 1. Ellis
 1. Ellis Marsalis Quartet
-1. Elrichman
+1. Elrichman x2
 1. The Elwins x2
 1. Emily Wells
 1. Emma-Lee
@@ -397,6 +398,7 @@
 1. Harry Manx
 1. Hawksley Workman
 1. Hayden
+1. Heather Mariko
 1. Hedley
 1. Heebee-Jeebees x?
 1. Hélène Barbier
@@ -447,7 +449,7 @@
 1. Ivy Mairi & Isla Craig
 1. Jack Semple
 1. Jackie
-1. Jackie Pirico
+1. Jackie Pirico x2
 1. Jackson Browne
 1. Jake Clemons
 1. Jake Levack
@@ -611,6 +613,7 @@
 1. Mark Holmes
 1. Mark Stanfield
 1. Mark Watson
+1. Martian Crisis Unit
 1. Martin Tielli
 1. Maryem Tollar & the Toronto Cairo Collective
 1. Mason Rack
@@ -692,7 +695,7 @@
 1. NNAMDÏ
 1. Noah Gundersen
 1. Noel Gallagher's High Flying Birds
-1. No Frills
+1. No Frills x2
 1. Nous Nous et Vous
 1. Norah Jones
 1. North Mississippi All Stars
