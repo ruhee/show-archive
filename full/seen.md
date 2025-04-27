@@ -461,6 +461,7 @@
 1. Jane's Party
 1. Jann Arden
 1. Japandroids x3
+1. jasmine.4.t
 1. Jason Collett
 1. Jason Doell & the Bionic Zombies
 1. Jason Lytle
@@ -526,6 +527,7 @@
 1. Kat Rogue
 1. Kate Fenner x2
 1. Kathleen Edwards
+1. Katie Gavin
 1. Katie Malco
 1. Kawa Brass Band
 1. Kee Avil
@@ -592,7 +594,7 @@
 1. Lowlands
 1. Lubo Alexandrov & Kaba Horo
 1. Lucinda Williams
-1. Lucy Dacus x2
+1. Lucy Dacus x3
 1. Luge
 1. Luke Doucet x2
 1. Luluc
