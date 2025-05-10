@@ -656,6 +656,7 @@
 1. Miss Scarlett
 1. The Mis-Shapes
 1. MJ Cyr
+1. MJ Lenderman & The Wind
 1. The Mocking Shadows
 1. Molly Davis Band
 1. Monica Garrido x2
@@ -952,6 +953,7 @@
 1. Theory of a Deadman (sort of)
 1. Thickhawk
 1. Thin Lips
+1. This Is Lorelei
 1. Thrush Hermit
 1. Tia McGregor
 1. Tim Gilbert
