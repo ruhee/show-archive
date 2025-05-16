@@ -651,6 +651,7 @@
 1. Mike Murley Duo
 1. Mike Murley Septet x2
 1. Mil-Spec
+1. Mint Green
 1. Mip Power Trio
 1. Mirah
 1. Miss Scarlett
@@ -1040,6 +1041,7 @@
 1. Woodhands x4
 1. Woodpigeon
 1. Wordburglar
+1. Worriers
 1. Wyclef Jean
 1. Wynton Marsalis & LCJO x2
 1. YAMANTAKA // SONIC TITAN x2
