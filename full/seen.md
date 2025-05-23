@@ -366,7 +366,7 @@
 1. The Gloom Room
 1. Glory Glory
 1. Godfrey
-1. Golden Dogs
+1. Golden Dogs x2 (1x acoustic duo)
 1. Gomez
 1. Good Brothers
 1. Goodbye Honolulu
@@ -1055,7 +1055,7 @@
 1. Young Galaxy
 1. Young Mother
 1. Young Rival
-1. Zeus x5
+1. Zeus x6
 1. Ziibiwan ᓯᐱᐘᐣ x2
 1. Zones
 1. Zoobombs
