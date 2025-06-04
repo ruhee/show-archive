@@ -970,7 +970,7 @@
 1. Tony Dekker & Basia Bulat
 1. Torngat
 1. Toronto Mendelssohn Choir x3
-1. Toronto Symphony Orchestra x8+
+1. Toronto Symphony Orchestra x9+
 1. Torres
 1. Tough Age
 1. Township Expansion x2
