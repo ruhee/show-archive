@@ -385,6 +385,7 @@
 1. Great Big Sea x4
 1. Great Lake Swimmers x3
 1. Green Go
+1. Greg Mendez
 1. Grey Lands
 1. Grounders
 1. Group Hug
@@ -1025,7 +1026,7 @@
 1. Wibi x4
 1. Wilco x2
 1. Wild Domestic x2
-1. Wild Pink
+1. Wild Pink x2
 1. The Wilderness of Manitoba
 1. Will Currie & the Country French x3
 1. William Carn Quintet
