@@ -604,6 +604,7 @@
 1. Lydia Persaud
 1. Lyle Lovett & His Large Band
 1. Maceo Parker
+1. Maddy Little
 1. The Magnificent Sevens
 1. Major Flavour
 1. Major Grange x2
@@ -842,7 +843,7 @@
 1. The Sadies
 1. Sadstab
 1. Saffron Sect x2
-1. Sam Amidon x2
+1. Sam Amidon x3
 1. Sam Baker
 1. Sam Coffey & The Iron Lungs
 1. Sam Parton
