@@ -679,6 +679,7 @@
 1. The National
 1. National Youth Orchestra of Canada 2005(?), 2010
 1. Neighbourhood Council (Braids)
+1. Neil Haverty
 1. Neil Quin
 1. Neil Young x2
 1. Neko Case x2
@@ -821,6 +822,7 @@
 1. Roch Voisine x2
 1. Rock the Shtetl
 1. Rocket Surgery
+1. Rock Plaza Central
 1. Rocky Roberts
 1. Rodeo Boys
 1. Rodrigo Fernandez-Stoll
