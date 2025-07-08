@@ -935,6 +935,7 @@
 1. Swanson & McAnsh
 1. Sweet Pea
 1. Sweet Thing
+1. Swing Shift Big Band
 1. The Swyves
 1. Sydanie
 1. Tacoma Hellfarm Tragedy
