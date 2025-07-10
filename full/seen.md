@@ -782,6 +782,7 @@
 1. Proof of Ghosts
 1. Protomartyr
 1. PS I Love You
+1. Puddles Pity Party
 1. PUP x2
 1. QR5
 1. Queen of Swords
@@ -1023,7 +1024,7 @@
 1. The Weather Station x10
 1. Weaves
 1. The Wellington Wellingtons
-1. Weird Al Yankovic
+1. "Weird Al" Yankovic x2
 1. Weird Weather x2
 1. Wendy McNeill
 1. The What Cheer? Brigade

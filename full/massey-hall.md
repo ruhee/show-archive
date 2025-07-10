@@ -176,7 +176,7 @@
 1. Treasa Levasseur (Women's Blues Revue)
 1. Unwigged & Unplugged (Christopher Guest, Harry Shearer, Michael McKean)
 1. Van Morrison
-1. Weird Al Yankovic
+1. "Weird Al" Yankovic
 1. Wilco
 1. Willie Nelson
 1. Yes
