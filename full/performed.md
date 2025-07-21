@@ -7,6 +7,7 @@
 1. Bookchop (as guest) x2
 1. Boozhoo Manoomin Ensemble x2
 1. The Bop Fi's
+1. Brickie (as guest)
 1. Bruce Peninsula
 1. Bry Webb x3
 1. The CBC Darlings
@@ -41,7 +42,7 @@
 1. Soup Can Theatre's _Love is a Poverty You Can Sell_ x21
 1. Soup Can Theatre's _LIAPYCS 2: Kisses for a Pfennig_ x11
 1. Stephen Stanley x2 (as guest)
-1. Survival Club
+1. Survival Club x4
 1. Todd Aalgaard (as guest)
 1. Traplines
 1. Weak Hands x9

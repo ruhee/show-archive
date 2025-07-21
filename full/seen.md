@@ -124,6 +124,7 @@
 1. Brent Randall & His Pinecones x5
 1. Brian Dickinson Trio
 1. Brian Wilson
+1. Brickie x3
 1. Brodie Dakin
 1. Broken Social Scene
 1. Brown Hawkins Stanley
@@ -342,6 +343,7 @@
 1. Foonyap
 1. Forces
 1. Forest City Lovers x2
+1. Forty Seven Teeth
 1. Fox Jaws
 1. Frankie Valli & The Four Seasons
 1. Franz Ferdinand
@@ -373,6 +375,7 @@
 1. The Good Bye Lauras
 1. Good Enough Live Karaoke x5
 1. The Good Family
+1. Good For Tuesday
 1. The Good Lovelies x2
 1. Good Morning
 1. Goon Squad
@@ -390,6 +393,7 @@
 1. Grounders
 1. Group Hug
 1. Haley & Josh
+1. Halfway There x3
 1. Hamilton Trading Co.
 1. The Hand Me Downs
 1. Handsome Family
@@ -479,6 +483,7 @@
 1. Jerry Seinfeld x3
 1. Jess Williamson
 1. Jesse Cook
+1. Jessy Dee
 1. Jetplanes of Abraham x2
 1. Jetset Motel
 1. Jian Wang
@@ -904,6 +909,7 @@
 1. Spacecraft 7
 1. Spanish Love Songs
 1. The Speaking Tongues
+1. Speedbump Sally
 1. Spiral Beach x2
 1. Spirit Family Reunion
 1. Spitfires & Mayflowers
