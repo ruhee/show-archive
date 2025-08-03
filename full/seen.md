@@ -38,6 +38,7 @@
 1. Anagram
 1. Anathallo
 1. Andrew Bird
+1. Andrew Ivimey
 1. Andrew Scott x2
 1. Andrew, Scott & Laura
 1. Andyland
@@ -504,6 +505,7 @@
 1. John Hiatt
 1. John K. Samson
 1. John Mellencamp
+1. John Mostyn
 1. John Mulaney x2
 1. John Pinette
 1. John Wort Hannam
@@ -512,7 +514,7 @@
 1. Jon-Rae Fletcher
 1. Jon-Rae and the River x3
 1. Joseph Shabason
-1. Josh Gondelman x2
+1. Josh Gondelman x3
 1. Josh Ritter
 1. Julie Doiron x4
 1. Julien Baker x2
@@ -1000,6 +1002,7 @@
 1. tUnE-yArDs
 1. TUNS x3
 1. TV Erased
+1. TV On The Radio
 1. Twin Peaks
 1. Two Hours Traffic x3
 1. Two Koreas
