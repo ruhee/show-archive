@@ -175,6 +175,7 @@
 1. Chad VanGaalen x3
 1. Chandra
 1. Char Aragoza
+1. Charlotte Cornfield
 1. Cheap Speakers x2
 1. Chick Corea Trio
 1. Chirgilchin
@@ -332,6 +333,7 @@
 1. Feist x2
 1. Feuermusik
 1. Field Music
+1. FINOM
 1. First Aid Kit (Halifax - now Writer's Strike)
 1. FLAMES!
 1. The Flaming Decisions
