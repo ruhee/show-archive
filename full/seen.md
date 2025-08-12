@@ -333,7 +333,7 @@
 1. Feist x2
 1. Feuermusik
 1. Field Music
-1. FINOM
+1. Finom
 1. First Aid Kit (Halifax - now Writer's Strike)
 1. FLAMES!
 1. The Flaming Decisions
