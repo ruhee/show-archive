@@ -226,7 +226,7 @@
 1. Cuff the Duke x3
 1. The Cult
 1. cumgirl8
-1. The Cybertronic Spree x2
+1. The Cybertronic Spree x3
 1. Dan Bern
 1. Dan Edmonds
 1. Daniel Lanois
@@ -283,6 +283,7 @@
 1. Doug Paisley
 1. Down With Webster
 1. Downchild Blues Band (ft. Colin James, Colin Linden, James Cotton, Dan Aykroyd)
+1. Dragon Sound
 1. Dressed in Black
 1. Dress Rehearsal
 1. The Dress Whites x2
