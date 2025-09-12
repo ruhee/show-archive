@@ -633,6 +633,7 @@
 1. Maryem Tollar & the Toronto Cairo Collective
 1. Mason Rack
 1. Master Musicians of Jajouka
+1. Matt Fasullo
 1. Matthew E. White
 1. Matt Masters
 1. Matt Mays & El Torpedo
@@ -1023,6 +1024,7 @@
 1. U.S. Girls
 1. Valentine Ho
 1. Val Heimpel
+1. VanCamp
 1. Vancouver TheatreSports League x2
 1. Vanity Mirror
 1. Van Morrison x2
