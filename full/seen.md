@@ -408,6 +408,7 @@
 1. Hawksley Workman
 1. Hayden
 1. Heather Mariko
+1. Heavyweights Brass Band
 1. Hedley
 1. Heebee-Jeebees x?
 1. Hélène Barbier
@@ -893,7 +894,7 @@
 1. Sigur Rós
 1. Simeon Abbott
 1. Sinistrio
-1. Siobhan Bodrug
+1. Siobhan Bodrug x2
 1. Sitcom
 1. Skavenjah
 1. Skeleton (Me)
@@ -955,7 +956,7 @@
 1. Tarhana
 1. Tasseomancy
 1. Taylor Knox
-1. Tdot Batu x2
+1. Tdot Batu x3
 1. TEAL
 1. Teddy Thompson
 1. Ted Leo & the Pharmacists
@@ -1040,6 +1041,7 @@
 1. Weird Weather x2
 1. Wendy McNeill
 1. The What Cheer? Brigade
+1. Whispr
 1. Wibi x4
 1. Wilco x2
 1. Wild Domestic x2
