@@ -523,6 +523,7 @@
 1. Julie Doiron x4
 1. Julien Baker x2
 1. The Jumpsuits
+1. June Hawthorn
 1. The Just Barelys
 1. Just Prince
 1. Justin Adams & Juldeh Camara
@@ -960,7 +961,7 @@
 1. Tdot Batu x3
 1. TEAL
 1. Teddy Thompson
-1. Ted Leo & the Pharmacists
+1. Ted Leo 2x (1x solo, 1x & the Pharmacists)
 1. Teenanger
 1. Tegan & Sara
 1. Ten Second Epic
