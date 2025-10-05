@@ -571,6 +571,7 @@
 1. La Strada
 1. Last Waltzon
 1. Laura Barrett x6
+1. Laura Stevenson
 1. Leahy x2
 1. Lebarons
 1. LeE HARVeY OsMOND
@@ -729,6 +730,7 @@
 1. The Nymphets
 1. Nyssa
 1. Obuxum
+1. Oceanator
 1. Ohbijou x3
 1. Oh Susanna x2
 1. Okkervil River x2
@@ -841,7 +843,7 @@
 1. Rodeo Boys
 1. Rodrigo Fernandez-Stoll
 1. Roman Pilates
-1. Ron Hawkins x9 (1x w/Steve Singh, 1x w/Christopher Plock)
+1. Ron Hawkins x10 (1x w/Steve Singh, 1x w/Christopher Plock)
 1. Ron Hawkins & The Do Good Assassins x2
 1. Ron Sexsmith x2
 1. Ronley Teper's Lipliners
@@ -930,7 +932,7 @@
 1. Steely Dan x2
 1. Stef McCarrol
 1. Stella Ella Ola
-1. Stephen Stanley x7 / Stephen Stanley Band x7
+1. Stephen Stanley x8 / Stephen Stanley Band x7
 1. Steve Reich
 1. Steven McKay x2
 1. Steven Page x5
