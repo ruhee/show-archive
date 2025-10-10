@@ -8,7 +8,7 @@
 1. Abdominal & the Obliques
 1. Abigail Washburn & the Sparrow Quartet
 1. Absolutely Free x2
-1. Ace of Wands x2
+1. Ace of Wands x3
 1. The Acorn x3
 1. Action Makes
 1. Ada Lee
@@ -793,7 +793,7 @@
 1. Porridge Radio
 1. Possum
 1. Pottery
-1. Praises
+1. Praises x2
 1. Proof of Ghosts
 1. Protomartyr
 1. PS I Love You
