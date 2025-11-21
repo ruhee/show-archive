@@ -447,11 +447,13 @@
 1. illScarlett
 1. Imaginary Cities
 1. Imogen Reid
+1. In All Fairness
 1. Inga Babinga
 1. The Invisible Hands
 1. Iron & Wine
 1. Iron Chic x2
 1. The Iron Roses
+1. Isabelle Vogel
 1. Isabel ZT
 1. Isla Craig
 1. The I Spies x2
@@ -699,6 +701,7 @@
 1. Neko Case x2
 1. Nelu Handa
 1. Neutral Milk Hotel
+1. Never Bloom
 1. New Country Rehab
 1. New Fries
 1. New Orleans Social Club
