@@ -34,6 +34,7 @@
 1. Aliya Kanani
 1. All the King's Voices
 1. Alonzo Bhodden
+1. A Loud Thing
 1. Amos the Transparent
 1. Anagram
 1. Anathallo
@@ -447,7 +448,7 @@
 1. illScarlett
 1. Imaginary Cities
 1. Imogen Reid
-1. In All Fairness
+1. In All Fairness x2
 1. Inga Babinga
 1. The Invisible Hands
 1. Iron & Wine
