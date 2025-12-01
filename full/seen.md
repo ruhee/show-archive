@@ -85,6 +85,7 @@
 1. Bellowhead
 1. Bert Jansch
 1. Bethany Daniels
+1. The Beths
 1. Bettye Lavette
 1. The Bicycles x8
 1. Bidiniband
@@ -781,6 +782,7 @@
 1. PF Sloan
 1. Phèdre
 1. Phoebe Bridgers x2
+1. Phoebe Rings
 1. Picastro
 1. The Pill
 1. Pineville
