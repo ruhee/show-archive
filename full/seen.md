@@ -1042,6 +1042,7 @@
 1. Warmer
 1. Waxahatchee x2
 1. Wayne Petti
+1. Weak Hands
 1. We Are Scientists
 1. We Take Lovers
 1. The Weakerthans
