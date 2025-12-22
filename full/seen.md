@@ -156,6 +156,7 @@
 1. Canaille Electric Trio
 1. Canailles
 1. The Cape May
+1. Career Suicide
 1. Carina & the Six String Preacher
 1. Carlos Antenna
 1. Carly Rae Jepsen
@@ -449,6 +450,7 @@
 1. illScarlett
 1. Imaginary Cities
 1. Imogen Reid
+1. Imploders
 1. In All Fairness x2
 1. Inga Babinga
 1. The Invisible Hands
