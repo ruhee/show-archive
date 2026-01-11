@@ -8,6 +8,7 @@
 1. Abdominal & the Obliques
 1. Abigail Washburn & the Sparrow Quartet
 1. Absolutely Free x2
+1. Absolute Treat x2 (1x as Dilettante)
 1. Ace of Wands x3
 1. The Acorn x3
 1. Action Makes
@@ -266,7 +267,6 @@
 1. Dick Gaughan
 1. Dick Mime
 1. Dickie Haydon
-1. Dilettante
 1. Dilly Dally
 1. Dinner Belles
 1. Dino Martinis x2
@@ -351,6 +351,7 @@
 1. Forces
 1. Forest City Lovers x2
 1. Forty Seven Teeth
+1. Fox Atticus
 1. Fox Jaws
 1. Frankie Valli & The Four Seasons
 1. Franz Ferdinand
@@ -591,6 +592,7 @@
 1. Levon Helm x2
 1. Liam Finn
 1. Lianne La Havas
+1. Lia Pappas-Kemps
 1. Lido Pimienta
 1. LILIM
 1. Lily Frost
