@@ -99,6 +99,7 @@
 1. Billy Bob Thornton & The Boxmasters
 1. Billy Bragg
 1. Billy Connolly
+1. Birchcliff (solo)
 1. Birds of Bellwoods
 1. Bita Joudaki
 1. The Black Pearls
@@ -712,7 +713,7 @@
 1. New Fries
 1. New Orleans Social Club
 1. The New Pornographers x4
-1. Nich Worby x7
+1. Nich Worby x8
 1. Nick Ferrio & His Feelings
 1. Nick Kroll & John Mulaney ("Oh, Hello")
 1. Nick Lowe
@@ -885,6 +886,7 @@
 1. The Schomberg Fair x2
 1. School of Language
 1. Scott B. Sympathy
+1. Scout
 1. Seal
 1. Secret Sisters
 1. Secret Star
