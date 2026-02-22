@@ -172,6 +172,7 @@
 1. Casey MQ
 1. Casper Skulls x2
 1. Castlemusic
+1. Catholic Wilt
 1. catl x2
 1. Cayetana x2
 1. Caylie Staples & Felicity Williams
@@ -228,6 +229,7 @@
 1. Creaking Tree String Quartet
 1. Creeping Nobodies
 1. Crhymes x2
+1. The Cross Sea
 1. Cuff the Duke x3
 1. The Cult
 1. cumgirl8
@@ -461,7 +463,7 @@
 1. The Iron Roses
 1. Isabelle Vogel
 1. Isabel ZT
-1. Isla Craig
+1. Isla Craig x2
 1. The I Spies x2
 1. Issa (Jane Siberry)
 1. Ivy Mairi & Isla Craig
@@ -804,7 +806,7 @@
 1. Porridge Radio
 1. Possum
 1. Pottery
-1. Praises x2
+1. Praises x3
 1. Proof of Ghosts
 1. Protomartyr
 1. PS I Love You
