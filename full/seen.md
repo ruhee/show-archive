@@ -348,6 +348,7 @@
 1. Fleece
 1. Fleet Foxes
 1. Fleetwood Mac
+1. Florry
 1. Floss
 1. Focus Fires
 1. Foonyap
@@ -823,7 +824,7 @@
 1. Rajiv Thavanathan
 1. Random Access
 1. Rapport
-1. Ratboys x2
+1. Ratboys x3
 1. Ray LaMontagne
 1. Ray Price
 1. Rebecca Reeds x2
