@@ -37,6 +37,8 @@
 1. Alonzo Bhodden
 1. A Loud Thing
 1. Amos the Transparent
+1. Amy Bishop
+1. Amy Sky
 1. Anagram
 1. Anathallo
 1. Andrew Bird
@@ -47,8 +49,6 @@
 1. Anna Mērnieks
 1. Anthony Bourdain
 1. The Antlers x2
-1. Amy Bishop
-1. Amy Sky
 1. Aparna Nancherla
 1. Apostle of Hustle
 1. Ari Lennox
@@ -94,8 +94,8 @@
 1. Bill Callahan
 1. Bill Clinton
 1. Bill Frisell Trio
-1. Bill Maher x2
 1. The Billie Hollies
+1. Bill Maher x2
 1. Billy Bob Thornton & The Boxmasters
 1. Billy Bragg
 1. Billy Connolly
@@ -268,8 +268,8 @@
 1. Diana Jones
 1. Diana Krall x2
 1. Dick Gaughan
-1. Dick Mime
 1. Dickie Haydon
+1. Dick Mime
 1. Dilly Dally
 1. Dinner Belles
 1. Dino Martinis x2
@@ -282,13 +282,13 @@
 1. DMBQ x2
 1. Dog Day
 1. Don McLean
+1. Donny McCaslin
 1. The Do Nothings
 1. Don Palmer
-1. Donny McCaslin
 1. Dorothea Paas x3
 1. Doug Paisley
-1. Down With Webster
 1. Downchild Blues Band (ft. Colin James, Colin Linden, James Cotton, Dan Aykroyd)
+1. Down With Webster
 1. Dragon Sound
 1. Dressed in Black
 1. Dress Rehearsal
@@ -300,9 +300,9 @@
 1. Duotang
 1. Dupony
 1. Dustin Bentall Outfit x2
+1. Dűvő
 1. The Dying Arts
 1. Dylan Gott
-1. Dűvő
 1. Eamon McGrath
 1. The East End Lovelies
 1. The Easy Targets
@@ -319,10 +319,10 @@
 1. Ellis Marsalis Quartet
 1. Elrichman x2
 1. The Elwins x2
+1. Emilyn Stam
 1. Emily Wells
 1. Emma-Lee
 1. Emma Pollock
-1. Emilyn Stam
 1. Entire Cities
 1. The Entrance Band
 1. The Envy
@@ -468,9 +468,9 @@
 1. The I Spies x2
 1. Issa (Jane Siberry)
 1. Ivy Mairi & Isla Craig
-1. Jack Semple
 1. Jackie
 1. Jackie Pirico x2
+1. Jack Semple
 1. Jackson Browne
 1. Jake Clemons
 1. Jake Levack
@@ -485,20 +485,20 @@
 1. jasmine.4.t
 1. Jason Collett
 1. Jason Doell & the Bionic Zombies
-1. Jason Lytle
 1. Jason Kenemy
+1. Jason Lytle
 1. Jay Crocker
 1. JDiggz
 1. Jeff Mangum
 1. Jeff Ray & Mikkel Beckman
-1. Jen Sakato
 1. Jenn Grant
+1. Jen Sakato
 1. Jeremy Hotz
 1. Jeremy Smith
 1. Jerry Douglas Band
 1. Jerry Seinfeld x3
-1. Jess Williamson
 1. Jesse Cook
+1. Jess Williamson
 1. Jessy Dee
 1. Jetplanes of Abraham x2
 1. Jetset Motel
@@ -506,15 +506,15 @@
 1. Jim Brickman
 1. Jim Byrnes
 1. Jim Cuddy Band x2
-1. Jim Gaffigan
 1. Jimeoin
+1. Jim Gaffigan
 1. Jimmy Carr
 1. Joe Bonamassa
-1. Joe Pernice
 1. Joel Eel
 1. Joel Fafard
 1. Joel Plaskett & Bill Plaskett
 1. Joel Plaskett Emergency x11
+1. Joe Pernice
 1. John Caparulo
 1. John Cleese
 1. John Hiatt
@@ -522,12 +522,12 @@
 1. John Mellencamp
 1. John Mostyn
 1. John Mulaney x2
-1. John Pinette
-1. John Wort Hannam
 1. Johnny Headband
 1. Johnny Summers' "Little Big Band"
-1. Jon-Rae Fletcher
+1. John Pinette
+1. John Wort Hannam
 1. Jon-Rae and the River x3
+1. Jon-Rae Fletcher
 1. Joseph Shabason
 1. Josh Gondelman x3
 1. Josh Ritter
@@ -536,28 +536,27 @@
 1. The Jumpsuits
 1. June Hawthorn
 1. The Just Barelys
-1. Just Prince
 1. Justin Adams & Juldeh Camara
 1. Justin Bacchus
 1. Justin Rutledge x4
-1. K'Naan
+1. Just Prince
 1. Kailash Kher & Kailasa
 1. Kali Malone
 1. Kara Harun x2
 1. KASHKA
 1. Kat Burns
 1. Kat Danser
-1. Kat Nap
-1. Kat Rogue
 1. Kate Fenner x2
 1. Kathleen Edwards
 1. Katie Gavin
 1. Katie Malco
+1. Kat Nap
+1. Kat Rogue
 1. Kawa Brass Band
 1. Kee Avil
 1. Kellylee Evans
-1. Ken Reaume
 1. Kenny Rogers
+1. Ken Reaume
 1. Ketch Harbour Wolves
 1. Kevin Black
 1. The Killers
@@ -567,6 +566,7 @@
 1. Kitten Stevens
 1. KlezMerovitz
 1. Klingon Assault Squad
+1. K'Naan
 1. Kojo 'Easy' Damptey
 1. Kristen Mark Westwood
 1. KVJazz Trio
@@ -682,8 +682,8 @@
 1. Mint Green
 1. Mip Power Trio
 1. Mirah
-1. Miss Scarlett
 1. The Mis-Shapes
+1. Miss Scarlett
 1. MJ Cyr
 1. MJ Lenderman & The Wind
 1. The Mocking Shadows
@@ -730,12 +730,12 @@
 1. Noah Gundersen
 1. Noel Gallagher's High Flying Birds
 1. No Frills x2
-1. Nous Nous et Vous
 1. Norah Jones
 1. North Mississippi All Stars
 1. Not Affiliated Big Band
 1. Not The Wind Not The Flag
 1. Nour Hadidi
+1. Nous Nous et Vous
 1. Now Yr Taken
 1. NQ Arbuckle
 1. Nug Nahrgang
@@ -850,17 +850,17 @@
 1. Robin Hatch x2
 1. Robin Williams
 1. Roch Voisine x2
-1. Rock the Shtetl
 1. Rocket Surgery
 1. Rock Plaza Central
+1. Rock the Shtetl
 1. Rocky Roberts
 1. Rodeo Boys
 1. Rodrigo Fernandez-Stoll
 1. Roman Pilates
 1. Ron Hawkins x10 (1x w/Steve Singh, 1x w/Christopher Plock)
 1. Ron Hawkins & The Do Good Assassins x2
-1. Ron Sexsmith x2
 1. Ronley Teper's Lipliners
+1. Ron Sexsmith x2
 1. Rosemary Galloway Quartet (ft. Pat LaBarbera)
 1. Rosh Abdullah
 1. Ross Noble
@@ -876,11 +876,11 @@
 1. Sadstab
 1. Saffron Sect x2
 1. Sam Amidon x3
+1. Sambacana
 1. Sam Baker
 1. Sam Coffey & The Iron Lungs
 1. Sam Parton
 1. Sam Roberts [Band] x3
-1. Sambacana
 1. Sandra Zelazny
 1. Sarah Harmer x3
 1. Sarah McLachlan x2
@@ -919,8 +919,8 @@
 1. Skeleton (Me)
 1. The Skeletones Four
 1. Skye Wallace x5 (2x solo)
-1. Sloan x29
 1. Slippers x3
+1. Sloan x29
 1. Slutcode
 1. Small Sins x3 (1x as The Ladies & Gentlemen)
 1. The Smugglers
@@ -948,9 +948,9 @@
 1. Stef McCarrol
 1. Stella Ella Ola
 1. Stephen Stanley x8 / Stephen Stanley Band x7
-1. Steve Reich
 1. Steven McKay x2
 1. Steven Page x5
+1. Steve Reich
 1. Stevie Jackson
 1. St Michael's Choir School x5
 1. Stomp! (New York)
@@ -987,23 +987,23 @@
 1. Thee Silver Mount Zion
 1. Their Majesties
 1. Theodore Walker Robinson
-1. These United States
 1. Theory of a Deadman (sort of)
+1. These United States
 1. Thickhawk
 1. Thin Lips
 1. This Is Lorelei
 1. Thrush Hermit
 1. Tia McGregor
-1. Tim Gilbert
 1. Timber Timbre x2
+1. Tim Gilbert
 1. Tin Bangs
 1. Titus Andronicus x4
 1. Todd Aalgaard
 1. TOFU x2
 1. Tom Cochrane & Red Rider
 1. Tom Hearn
-1. Tom Papa x3
 1. Tommy Banks Quartette ft. PJ Perry
+1. Tom Papa x3
 1. Tony Dekker & Basia Bulat
 1. Torngat
 1. Toronto Mendelssohn Choir x3
@@ -1051,23 +1051,23 @@
 1. Warmer
 1. Waxahatchee x2
 1. Wayne Petti
+1. The Weakerthans
 1. Weak Hands
 1. We Are Scientists
-1. We Take Lovers
-1. The Weakerthans
 1. The Weather Station x10
 1. Weaves
-1. The Wellington Wellingtons
 1. "Weird Al" Yankovic x2
 1. Weird Weather x2
+1. The Wellington Wellingtons
 1. Wendy McNeill
+1. We Take Lovers
 1. The What Cheer? Brigade
 1. Whispr
 1. Wibi x4
 1. Wilco x2
 1. Wild Domestic x2
-1. Wild Pink x2
 1. The Wilderness of Manitoba
+1. Wild Pink x2
 1. Will Currie & the Country French x3
 1. William Carn Quintet
 1. William Elliot Whitmore
@@ -1102,3 +1102,4 @@
 1. Zoobombs
 1. Zoon
 1. Zorton and the Cannibals
+
