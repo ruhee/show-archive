@@ -63,7 +63,7 @@
 1. Ayal Senior
 1. B-17
 1. Baby Eagle
-1. The Bad Plus
+1. The Bad Plus x2 (1x with Chris Potter & Craig Taborn)
 1. B.A. Johnston x2
 1. Bald Britney
 1. Bankruptcy
