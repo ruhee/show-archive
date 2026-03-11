@@ -647,6 +647,7 @@
 1. Maryem Tollar & the Toronto Cairo Collective
 1. Mason Rack
 1. Master Musicians of Jajouka
+1. Matt Brubeck & Caylie Staples
 1. Matt Fasullo
 1. Matthew E. White
 1. Matt Masters
