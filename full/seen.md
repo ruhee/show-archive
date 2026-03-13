@@ -238,6 +238,7 @@
 1. Dan Edmonds
 1. Daniel Lanois
 1. Danielle Duval
+1. Daniel Romano's Outfit
 1. Daniel Tosh x2
 1. Danny Barnes
 1. Danny Bhoy x2
@@ -688,6 +689,7 @@
 1. MJ Cyr
 1. MJ Lenderman & The Wind
 1. The Mocking Shadows
+1. Mod Lang
 1. Molly Davis Band
 1. Monica Garrido x2
 1. More or Les
@@ -897,6 +899,7 @@
 1. Selina Martin
 1. Seong-Jin Cho
 1. The Shacks
+1. Shadow Show
 1. Shakura S'Aida
 1. Shannon Roszell x2
 1. Share
