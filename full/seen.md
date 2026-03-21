@@ -211,6 +211,7 @@
 1. Come Back Barbara
 1. Comet Control
 1. Conan O'Brien (ft. Andy Richter, Deon Cole)
+1. Concrete Vehicles
 1. Connie Manfredi
 1. Conor Gains
 1. The Consonant C
@@ -366,7 +367,7 @@
 1. Friendly Rich & The Lollipop People
 1. Frigg
 1. Frontiers
-1. Fucked Up x9
+1. Fucked Up x10
 1. Fusion Comedy
 1. Gal Costa
 1. Gay
