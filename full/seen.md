@@ -87,6 +87,7 @@
 1. Bert Jansch
 1. Bethany Daniels
 1. The Beths
+1. Béton Armé
 1. Bettye Lavette
 1. The Bicycles x8
 1. Bidiniband
@@ -134,6 +135,7 @@
 1. Broken Social Scene
 1. Brown Hawkins Stanley
 1. Bruce Peninsula x9
+1. Bruiserweight
 1. Bry Webb x2
 1. Buddy Guy
 1. Bueller x2
