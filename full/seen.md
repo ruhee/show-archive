@@ -409,6 +409,7 @@
 1. Grounders
 1. Group Hug
 1. Haley & Josh
+1. Haley Heynderickx & Max Garcìa Conover
 1. Halfway There x3
 1. Hamilton Trading Co.
 1. The Hand Me Downs
@@ -544,6 +545,7 @@
 1. Justin Bacchus
 1. Justin Rutledge x4
 1. Just Prince
+1. Kafari
 1. Kailash Kher & Kailasa
 1. Kali Malone
 1. Kara Harun x2
