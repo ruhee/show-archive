@@ -358,7 +358,7 @@
 1. Foonyap
 1. Forces
 1. Forest City Lovers x2
-1. Forty Seven Teeth
+1. Forty Seven Teeth x2
 1. Fox Atticus
 1. Fox Jaws
 1. Frankie Valli & The Four Seasons
@@ -431,6 +431,7 @@
 1. Herbie Hancock
 1. Hey Rosetta!
 1. The Highest Order x3
+1. High Home
 1. Hiroki Tanaka
 1. The Hit Pickers
 1. Hoa Hoas
