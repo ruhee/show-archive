@@ -126,6 +126,7 @@
 1. Brave Little Toaster
 1. Breeze x2
 1. Brenda
+1. Brennan Wedl
 1. Brent Jackson x2
 1. Brent Randall & His Pinecones x5
 1. Brian Dickinson Trio
@@ -693,6 +694,7 @@
 1. The Mis-Shapes
 1. Miss Scarlett
 1. MJ Cyr
+1. MJ Lenderman (w/Waxahatchee)
 1. MJ Lenderman & The Wind
 1. The Mocking Shadows
 1. Mod Lang
@@ -1060,7 +1062,7 @@
 1. Vasen
 1. Walter/Halvorson/Evans trio
 1. Warmer
-1. Waxahatchee x2
+1. Waxahatchee x3 (1x with MJ Lenderman)
 1. Wayne Petti
 1. The Weakerthans
 1. Weak Hands
