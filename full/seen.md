@@ -9,7 +9,7 @@
 1. Abigail Washburn & the Sparrow Quartet
 1. Absolutely Free x2
 1. Absolute Treat x2 (1x as Dilettante)
-1. Ace of Wands x4
+1. Ace of Wands x5
 1. The Acorn x3
 1. Action Makes
 1. Ada Lee
@@ -932,7 +932,7 @@
 1. Skavenjah
 1. Skeleton (Me)
 1. The Skeletones Four
-1. Skye Wallace x5 (2x solo)
+1. Skye Wallace x6 (2x solo)
 1. Slippers x3
 1. Sloan x29
 1. Slutcode
