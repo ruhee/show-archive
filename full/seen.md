@@ -335,6 +335,7 @@
 1. E-Saggila
 1. Escort
 1. Esther Rose
+1. Ethereal Tomb
 1. Eucalyptus
 1. Evan Gordon & His Sad Clowns
 1. Evelyn Glennie
@@ -408,6 +409,7 @@
 1. Green Go
 1. Greg Mendez
 1. Grey Lands
+1. Grotto
 1. Grounders
 1. Group Hug
 1. Haley & Josh
@@ -929,6 +931,7 @@
 1. Sinistrio
 1. Siobhan Bodrug x2
 1. Sitcom
+1. Siyahkal
 1. Skavenjah
 1. Skeleton (Me)
 1. The Skeletones Four
