@@ -164,6 +164,7 @@
 1. Career Suicide
 1. Carina & the Six String Preacher
 1. Carlos Antenna
+1. Carlo Spidla
 1. Carly Rae Jepsen
 1. Carmen Elle
 1. Carol Burnett
@@ -487,7 +488,7 @@
 1. James Blonde
 1. James Blood Ulmer
 1. James Hunter
-1. James Irwin x2
+1. James Irwin x3
 1. Jane Inc.
 1. Jane's Party
 1. Jann Arden
@@ -1037,6 +1038,7 @@
 1. Treasa Levasseur
 1. Tremayne
 1. Tres Bien Ensemble
+1. Trinity Station (solo)
 1. Trish Klein
 1. Tropicanada Orchestra
 1. T. Thomason
