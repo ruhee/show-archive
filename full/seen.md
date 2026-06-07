@@ -444,6 +444,7 @@
 1. Holiday Rambler
 1. Hollow Earth
 1. Holly Cole
+1. Holy Fuck
 1. Honest I's
 1. Hooded Fang x2
 1. Hoodo Hersi
@@ -1042,6 +1043,7 @@
 1. Trish Klein
 1. Tropicanada Orchestra
 1. T. Thomason
+1. Tumako
 1. tUnE-yArDs
 1. TUNS x3
 1. TV Erased
