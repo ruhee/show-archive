@@ -7,6 +7,7 @@
 1. 9Million
 1. Abdominal & the Obliques
 1. Abigail Washburn & the Sparrow Quartet
+1. Absolute Losers
 1. Absolutely Free x2
 1. Absolute Treat x2 (1x as Dilettante)
 1. Ace of Wands x5
@@ -351,6 +352,7 @@
 1. First Aid Kit (Halifax - now Writer's Strike)
 1. FLAMES!
 1. The Flaming Decisions
+1. The Flashing Lights
 1. The Flatliners
 1. Fleece
 1. Fleet Foxes
