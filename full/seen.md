@@ -102,6 +102,7 @@
 1. Billy Bragg
 1. Billy Connolly
 1. Birchcliff (solo)
+1. Birdhand
 1. Birds of Bellwoods
 1. Bita Joudaki
 1. The Black Pearls
@@ -337,6 +338,7 @@
 1. E-Saggila
 1. Escort
 1. Esther Rose
+1. Eternal Sky
 1. Ethereal Tomb
 1. Eucalyptus
 1. Evan Gordon & His Sad Clowns
