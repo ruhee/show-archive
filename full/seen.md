@@ -108,6 +108,7 @@
 1. The Black Pearls
 1. Blair Packham
 1. Blood, Sweat & Tears
+1. Blosum
 1. Blue Man Group (Toronto)
 1. Blue Rodeo x3
 1. Bobby McFerrin
@@ -133,7 +134,7 @@
 1. Brent Randall & His Pinecones x5
 1. Brian Dickinson Trio
 1. Brian Wilson
-1. Brickie x3
+1. Brickie x4
 1. Brodie Dakin
 1. Broken Social Scene
 1. Brown Hawkins Stanley
@@ -549,6 +550,7 @@
 1. Josh Ritter
 1. Julie Doiron x4
 1. Julien Baker x2
+1. Jump Coven
 1. The Jumpsuits
 1. June Hawthorn
 1. The Just Barelys
