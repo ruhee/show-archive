@@ -134,7 +134,7 @@
 1. Brent Randall & His Pinecones x5
 1. Brian Dickinson Trio
 1. Brian Wilson
-1. Brickie x4
+1. Brickie x5
 1. Brodie Dakin
 1. Broken Social Scene
 1. Brown Hawkins Stanley
@@ -238,6 +238,7 @@
 1. Creeping Nobodies
 1. Crhymes x2
 1. The Cross Sea
+1. Crowd Surf
 1. Cuff the Duke x3
 1. The Cult
 1. cumgirl8
@@ -653,6 +654,7 @@
 1. Major Flavour
 1. Major Grange x2
 1. Makita Hack & The Log Rollers
+1. Mandatory Overtime
 1. Mandibles
 1. The Manilennials
 1. Mantler
