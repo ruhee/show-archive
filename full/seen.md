@@ -151,7 +151,7 @@
 1. Butterfly Boucher x2
 1. By Divine Right
 1. Cadence x3
-1. Cadence Weapon
+1. Cadence Weapon x2
 1. Caitlin Carey
 1. Calexico
 1. Calgary Choral
