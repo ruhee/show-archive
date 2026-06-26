@@ -800,7 +800,7 @@
 1. Paul Banwatt
 1. Paul Read Orchestra
 1. Paul Reddick
-1. Paul Simon
+1. Paul Simon x2
 1. Paul Ubana Jones
 1. Paul Weadick
 1. The Payola\$
