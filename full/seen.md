@@ -583,6 +583,7 @@
 1. King Cuddy
 1. Kingdom of Birds
 1. Kirk MacDonald
+1. Kirk MacDonald International Quartet
 1. Kitten Stevens
 1. KlezMerovitz
 1. Klingon Assault Squad
