@@ -354,6 +354,7 @@
 1. Field Music
 1. Finom
 1. First Aid Kit (Halifax - now Writer's Strike)
+1. Fiver (w/ the Fiver Trois)
 1. FLAMES!
 1. The Flaming Decisions
 1. The Flashing Lights
@@ -483,6 +484,7 @@
 1. Isabelle Vogel
 1. Isabel ZT
 1. Isla Craig x2
+1. Isla & The Sorry Brothers
 1. The I Spies x2
 1. Issa (Jane Siberry)
 1. Ivy Mairi & Isla Craig
