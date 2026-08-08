@@ -46,7 +46,7 @@
 1. Survival Club x10
 1. Todd Aalgaard (as guest)
 1. Traplines
-1. Weak Hands x9
+1. Weak Hands x10 (1x as guest)
 1. The Weather Station (unknown ... tour guest mostly)
 1. XLNS x2
 1. York University Jazz Orchestra x3+

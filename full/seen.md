@@ -106,6 +106,7 @@
 1. Birds of Bellwoods
 1. Bita Joudaki
 1. The Black Pearls
+1. The Black Void
 1. Blair Packham
 1. Blood, Sweat & Tears
 1. Blosum
@@ -639,6 +640,7 @@
 1. Los Munequitos de Matanzas
 1. Lost Cousins x2
 1. Louis CK
+1. Lovekink
 1. Lowest of the Low x8
 1. Lowlands
 1. Lubo Alexandrov & Kaba Horo
@@ -728,6 +730,7 @@
 1. Murley/Braid Quartet
 1. Murray Drive
 1. Mushfiq Ensemble
+1. Nameless Friends
 1. Nathan x2
 1. The National
 1. National Youth Orchestra of Canada 2005(?), 2010
@@ -1085,7 +1088,7 @@
 1. Waxahatchee x3 (1x with MJ Lenderman)
 1. Wayne Petti
 1. The Weakerthans
-1. Weak Hands
+1. Weak Hands x2
 1. We Are Scientists
 1. The Weather Station x10
 1. Weaves
