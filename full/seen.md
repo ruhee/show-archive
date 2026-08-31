@@ -346,6 +346,7 @@
 1. Eucalyptus
 1. Evan Gordon & His Sad Clowns
 1. Evelyn Glennie
+1. Ever Since We Met
 1. Exultate Chamber Singers
 1. Eyeballs
 1. Faith Healer
@@ -444,7 +445,7 @@
 1. Herbie Hancock
 1. Hey Rosetta!
 1. The Highest Order x3
-1. High Home
+1. High Home x2
 1. Hiroki Tanaka
 1. The Hit Pickers
 1. Hoa Hoas
@@ -659,7 +660,7 @@
 1. Major Flavour
 1. Major Grange x2
 1. Makita Hack & The Log Rollers
-1. Mandatory Overtime
+1. Mandatory Overtime x2
 1. Mandibles
 1. The Manilennials
 1. Mantler
