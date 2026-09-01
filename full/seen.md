@@ -14,6 +14,7 @@
 1. The Acorn x3
 1. Action Makes
 1. Ada Lee
+1. Adam Ant
 1. Adam Jesin
 1. Adeem the Artist
 1. Adrienne Young & Little Sadie
@@ -422,6 +423,7 @@
 1. Grotto
 1. Grounders
 1. Group Hug
+1. Haircut 100
 1. Haley & Josh
 1. Haley Heynderickx & Max Garcìa Conover
 1. Halfway There x3
@@ -974,7 +976,7 @@
 1. Spirit Family Reunion
 1. Spitfires & Mayflowers
 1. Sportsfan x2
-1. Squeeze
+1. Squeeze x2
 1. Stardust
 1. Stars x2
 1. Status/Non-Status
