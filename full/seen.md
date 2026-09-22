@@ -944,6 +944,7 @@
 1. Shooglenifty
 1. Short Bloom
 1. ShoShona Kish
+1. Shreya Ghoshal
 1. Sightings
 1. Sigur Rós
 1. Simeon Abbott
