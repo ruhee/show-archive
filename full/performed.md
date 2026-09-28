@@ -37,13 +37,14 @@
 1. Ruhee Dewji (solo) x2
 1. The Rural Alberta Advantage (as guest)
 1. Shrinehouse x13
+1. Skye Wallace (as guest)
 1. Sloan (as guest) (lol)
 1. Slipper Orchestra
 1. Soup Can Theatre 10th Anniversary Ensemble
 1. Soup Can Theatre's _Love is a Poverty You Can Sell_ x21
 1. Soup Can Theatre's _LIAPYCS 2: Kisses for a Pfennig_ x11
 1. Stephen Stanley x2 (as guest)
-1. Survival Club x11
+1. Survival Club x15
 1. Todd Aalgaard (as guest)
 1. Traplines
 1. Weak Hands x10 (1x as guest)
