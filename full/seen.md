@@ -190,6 +190,7 @@
 1. Chad VanGaalen x3
 1. Chandra
 1. Char Aragoza
+1. Charlie Weber & the Glorious Failures
 1. Charlotte Cornfield
 1. Cheap Speakers x2
 1. Chick Corea Trio
@@ -347,6 +348,7 @@
 1. Eucalyptus
 1. Evan Gordon & His Sad Clowns
 1. Evelyn Glennie
+1. Ever Bloom
 1. Ever Since We Met
 1. Exultate Chamber Singers
 1. Eyeballs
@@ -456,7 +458,7 @@
 1. Hollow Earth
 1. Holly Cole
 1. Holy Fuck
-1. The Honest Heart Collective x4
+1. The Honest Heart Collective x5
 1. Honest I's
 1. Hooded Fang x2
 1. Hoodo Hersi
