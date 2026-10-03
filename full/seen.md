@@ -458,7 +458,7 @@
 1. Hollow Earth
 1. Holly Cole
 1. Holy Fuck
-1. The Honest Heart Collective x5
+1. The Honest Heart Collective x6
 1. Honest I's
 1. Hooded Fang x2
 1. Hoodo Hersi
