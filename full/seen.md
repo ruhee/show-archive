@@ -418,6 +418,7 @@
 1. Grassmarket
 1. Gravity Wave x4
 1. Great Big Sea x4
+1. Great Falls
 1. Great Lake Swimmers x3
 1. Green Go
 1. Greg Mendez
@@ -598,6 +599,7 @@
 1. Klingon Assault Squad
 1. K'Naan
 1. Kojo 'Easy' Damptey
+1. Kowloon Walled City
 1. Kristen Mark Westwood
 1. KVJazz Trio
 1. Kyle Micheal Murray
