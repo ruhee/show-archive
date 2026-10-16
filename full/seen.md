@@ -319,6 +319,7 @@
 1. Eamon McGrath
 1. The East End Lovelies
 1. The Easy Targets
+1. Ecca Vandal
 1. Eddie Izzard
 1. Edie Brickell & the New Bohemians
 1. The Effens
@@ -978,6 +979,7 @@
 1. Spanish Love Songs
 1. The Speaking Tongues
 1. Speedbump Sally
+1. Speed of Light
 1. Spiral Beach x2
 1. Spirit Family Reunion
 1. Spitfires & Mayflowers
