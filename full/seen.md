@@ -677,6 +677,7 @@
 1. Mark Holmes
 1. Mark Stanfield
 1. Mark Watson
+1. Marshall Crenshaw
 1. Martian Crisis Unit
 1. Martin Tielli
 1. Maryem Tollar & the Toronto Cairo Collective
@@ -922,6 +923,7 @@
 1. Sam Parton
 1. Sam Roberts [Band] x3
 1. Sandra Zelazny
+1. Sarah Borges & Eric Ambel
 1. Sarah Harmer x3
 1. Sarah McLachlan x2
 1. Sarah Silverman
