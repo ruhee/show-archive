@@ -965,7 +965,7 @@
 1. The Skeletones Four
 1. Skye Wallace x6 (2x solo)
 1. Slippers x3
-1. Sloan x29
+1. Sloan x30
 1. Slutcode
 1. Small Sins x3 (1x as The Ladies & Gentlemen)
 1. The Smugglers
