@@ -574,6 +574,7 @@
 1. Kailash Kher & Kailasa
 1. Kali Malone
 1. Kara Harun x2
+1. Karen Ng
 1. KASHKA
 1. Kat Burns
 1. Kat Danser
@@ -635,7 +636,7 @@
 1. Lily Frost
 1. Lindsay Ell
 1. Lisa Bozikovic x2
-1. Lisa Conway/L CON x7
+1. Lisa Conway/L CON x8
 1. Lisa Lampanelli
 1. Lisa O'Neill
 1. The Litch
